@@ -3,9 +3,7 @@ package com.rakeshk.optionchain;
 import java.io.IOException;
 import java.security.GeneralSecurityException;
 
-import org.springframework.boot.autoconfigure.SpringBootApplication;
-
-@SpringBootApplication
+//@SpringBootApplication
 public class OptionchainApplication {
 
     /**

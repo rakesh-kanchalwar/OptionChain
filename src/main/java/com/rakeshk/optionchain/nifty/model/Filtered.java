@@ -1,4 +1,4 @@
-package com.rakeshk.optionchain.model.nifty;
+package com.rakeshk.optionchain.nifty.model;
 
 import java.util.List;
 

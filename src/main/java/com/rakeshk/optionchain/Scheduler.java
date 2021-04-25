@@ -10,7 +10,7 @@ import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
 import com.fasterxml.jackson.databind.ObjectMapper;
-import com.rakeshk.optionchain.model.nifty.Root;
+import com.rakeshk.optionchain.nifty.model.Root;
 
 public class Scheduler extends TimerTask {
 	private Logger logger = LoggerFactory.getLogger(Scheduler.class);

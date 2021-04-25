@@ -1,0 +1,4161 @@
+[ {
+  "type" : "line",
+  "name" : "27400",
+  "visible" : false,
+  "showInLegend" : true,
+  "markerSize" : 0,
+  "yValueFormatString" : "",
+  "dataPoints" : [ {
+    "label" : "23:31",
+    "y" : 68
+  }, {
+    "label" : "23:31",
+    "y" : 68
+  }, {
+    "label" : "23:36",
+    "y" : 68
+  }, {
+    "label" : "23:37",
+    "y" : 68
+  }, {
+    "label" : "23:40",
+    "y" : 68
+  }, {
+    "label" : "23:43",
+    "y" : 68
+  }, {
+    "label" : "23:43",
+    "y" : 68
+  }, {
+    "label" : "23:44",
+    "y" : 68
+  } ]
+}, {
+  "type" : "line",
+  "name" : "27500",
+  "visible" : false,
+  "showInLegend" : true,
+  "markerSize" : 0,
+  "yValueFormatString" : "",
+  "dataPoints" : [ {
+    "label" : "23:31",
+    "y" : 1382
+  }, {
+    "label" : "23:31",
+    "y" : 1382
+  }, {
+    "label" : "23:36",
+    "y" : 1382
+  }, {
+    "label" : "23:37",
+    "y" : 1382
+  }, {
+    "label" : "23:40",
+    "y" : 1382
+  }, {
+    "label" : "23:43",
+    "y" : 1382
+  }, {
+    "label" : "23:43",
+    "y" : 1382
+  }, {
+    "label" : "23:44",
+    "y" : 1382
+  } ]
+}, {
+  "type" : "line",
+  "name" : "27600",
+  "visible" : false,
+  "showInLegend" : true,
+  "markerSize" : 0,
+  "yValueFormatString" : "",
+  "dataPoints" : [ {
+    "label" : "23:31",
+    "y" : 0
+  }, {
+    "label" : "23:31",
+    "y" : 0
+  }, {
+    "label" : "23:36",
+    "y" : 0
+  }, {
+    "label" : "23:37",
+    "y" : 0
+  }, {
+    "label" : "23:40",
+    "y" : 0
+  }, {
+    "label" : "23:43",
+    "y" : 0
+  }, {
+    "label" : "23:43",
+    "y" : 0
+  }, {
+    "label" : "23:44",
+    "y" : 0
+  } ]
+}, {
+  "type" : "line",
+  "name" : "27700",
+  "visible" : false,
+  "showInLegend" : true,
+  "markerSize" : 0,
+  "yValueFormatString" : "",
+  "dataPoints" : [ {
+    "label" : "23:31",
+    "y" : 2
+  }, {
+    "label" : "23:31",
+    "y" : 2
+  }, {
+    "label" : "23:36",
+    "y" : 2
+  }, {
+    "label" : "23:37",
+    "y" : 2
+  }, {
+    "label" : "23:40",
+    "y" : 2
+  }, {
+    "label" : "23:43",
+    "y" : 2
+  }, {
+    "label" : "23:43",
+    "y" : 2
+  }, {
+    "label" : "23:44",
+    "y" : 2
+  } ]
+}, {
+  "type" : "line",
+  "name" : "27800",
+  "visible" : false,
+  "showInLegend" : true,
+  "markerSize" : 0,
+  "yValueFormatString" : "",
+  "dataPoints" : [ {
+    "label" : "23:31",
+    "y" : 1
+  }, {
+    "label" : "23:31",
+    "y" : 1
+  }, {
+    "label" : "23:36",
+    "y" : 1
+  }, {
+    "label" : "23:37",
+    "y" : 1
+  }, {
+    "label" : "23:40",
+    "y" : 1
+  }, {
+    "label" : "23:43",
+    "y" : 1
+  }, {
+    "label" : "23:43",
+    "y" : 1
+  }, {
+    "label" : "23:44",
+    "y" : 1
+  } ]
+}, {
+  "type" : "line",
+  "name" : "27900",
+  "visible" : false,
+  "showInLegend" : true,
+  "markerSize" : 0,
+  "yValueFormatString" : "",
+  "dataPoints" : [ {
+    "label" : "23:31",
+    "y" : 1
+  }, {
+    "label" : "23:31",
+    "y" : 1
+  }, {
+    "label" : "23:36",
+    "y" : 1
+  }, {
+    "label" : "23:37",
+    "y" : 1
+  }, {
+    "label" : "23:40",
+    "y" : 1
+  }, {
+    "label" : "23:43",
+    "y" : 1
+  }, {
+    "label" : "23:43",
+    "y" : 1
+  }, {
+    "label" : "23:44",
+    "y" : 1
+  } ]
+}, {
+  "type" : "line",
+  "name" : "28000",
+  "visible" : false,
+  "showInLegend" : true,
+  "markerSize" : 0,
+  "yValueFormatString" : "",
+  "dataPoints" : [ {
+    "label" : "23:31",
+    "y" : 844
+  }, {
+    "label" : "23:31",
+    "y" : 844
+  }, {
+    "label" : "23:36",
+    "y" : 844
+  }, {
+    "label" : "23:37",
+    "y" : 844
+  }, {
+    "label" : "23:40",
+    "y" : 844
+  }, {
+    "label" : "23:43",
+    "y" : 844
+  }, {
+    "label" : "23:43",
+    "y" : 844
+  }, {
+    "label" : "23:44",
+    "y" : 844
+  } ]
+}, {
+  "type" : "line",
+  "name" : "28100",
+  "visible" : false,
+  "showInLegend" : true,
+  "markerSize" : 0,
+  "yValueFormatString" : "",
+  "dataPoints" : [ {
+    "label" : "23:31",
+    "y" : 0
+  }, {
+    "label" : "23:31",
+    "y" : 0
+  }, {
+    "label" : "23:36",
+    "y" : 0
+  }, {
+    "label" : "23:37",
+    "y" : 0
+  }, {
+    "label" : "23:40",
+    "y" : 0
+  }, {
+    "label" : "23:43",
+    "y" : 0
+  }, {
+    "label" : "23:43",
+    "y" : 0
+  }, {
+    "label" : "23:44",
+    "y" : 0
+  } ]
+}, {
+  "type" : "line",
+  "name" : "28200",
+  "visible" : false,
+  "showInLegend" : true,
+  "markerSize" : 0,
+  "yValueFormatString" : "",
+  "dataPoints" : [ {
+    "label" : "23:31",
+    "y" : 0
+  }, {
+    "label" : "23:31",
+    "y" : 0
+  }, {
+    "label" : "23:36",
+    "y" : 0
+  }, {
+    "label" : "23:37",
+    "y" : 0
+  }, {
+    "label" : "23:40",
+    "y" : 0
+  }, {
+    "label" : "23:43",
+    "y" : 0
+  }, {
+    "label" : "23:43",
+    "y" : 0
+  }, {
+    "label" : "23:44",
+    "y" : 0
+  } ]
+}, {
+  "type" : "line",
+  "name" : "28300",
+  "visible" : false,
+  "showInLegend" : true,
+  "markerSize" : 0,
+  "yValueFormatString" : "",
+  "dataPoints" : [ {
+    "label" : "23:31",
+    "y" : 0
+  }, {
+    "label" : "23:31",
+    "y" : 0
+  }, {
+    "label" : "23:36",
+    "y" : 0
+  }, {
+    "label" : "23:37",
+    "y" : 0
+  }, {
+    "label" : "23:40",
+    "y" : 0
+  }, {
+    "label" : "23:43",
+    "y" : 0
+  }, {
+    "label" : "23:43",
+    "y" : 0
+  }, {
+    "label" : "23:44",
+    "y" : 0
+  } ]
+}, {
+  "type" : "line",
+  "name" : "28400",
+  "visible" : false,
+  "showInLegend" : true,
+  "markerSize" : 0,
+  "yValueFormatString" : "",
+  "dataPoints" : [ {
+    "label" : "23:31",
+    "y" : 2
+  }, {
+    "label" : "23:31",
+    "y" : 2
+  }, {
+    "label" : "23:36",
+    "y" : 2
+  }, {
+    "label" : "23:37",
+    "y" : 2
+  }, {
+    "label" : "23:40",
+    "y" : 2
+  }, {
+    "label" : "23:43",
+    "y" : 2
+  }, {
+    "label" : "23:43",
+    "y" : 2
+  }, {
+    "label" : "23:44",
+    "y" : 2
+  } ]
+}, {
+  "type" : "line",
+  "name" : "28500",
+  "visible" : false,
+  "showInLegend" : true,
+  "markerSize" : 0,
+  "yValueFormatString" : "",
+  "dataPoints" : [ {
+    "label" : "23:31",
+    "y" : 95
+  }, {
+    "label" : "23:31",
+    "y" : 95
+  }, {
+    "label" : "23:36",
+    "y" : 95
+  }, {
+    "label" : "23:37",
+    "y" : 95
+  }, {
+    "label" : "23:40",
+    "y" : 95
+  }, {
+    "label" : "23:43",
+    "y" : 95
+  }, {
+    "label" : "23:43",
+    "y" : 95
+  }, {
+    "label" : "23:44",
+    "y" : 95
+  } ]
+}, {
+  "type" : "line",
+  "name" : "28600",
+  "visible" : false,
+  "showInLegend" : true,
+  "markerSize" : 0,
+  "yValueFormatString" : "",
+  "dataPoints" : [ {
+    "label" : "23:31",
+    "y" : 1
+  }, {
+    "label" : "23:31",
+    "y" : 1
+  }, {
+    "label" : "23:36",
+    "y" : 1
+  }, {
+    "label" : "23:37",
+    "y" : 1
+  }, {
+    "label" : "23:40",
+    "y" : 1
+  }, {
+    "label" : "23:43",
+    "y" : 1
+  }, {
+    "label" : "23:43",
+    "y" : 1
+  }, {
+    "label" : "23:44",
+    "y" : 1
+  } ]
+}, {
+  "type" : "line",
+  "name" : "28700",
+  "visible" : false,
+  "showInLegend" : true,
+  "markerSize" : 0,
+  "yValueFormatString" : "",
+  "dataPoints" : [ {
+    "label" : "23:31",
+    "y" : 2
+  }, {
+    "label" : "23:31",
+    "y" : 2
+  }, {
+    "label" : "23:36",
+    "y" : 2
+  }, {
+    "label" : "23:37",
+    "y" : 2
+  }, {
+    "label" : "23:40",
+    "y" : 2
+  }, {
+    "label" : "23:43",
+    "y" : 2
+  }, {
+    "label" : "23:43",
+    "y" : 2
+  }, {
+    "label" : "23:44",
+    "y" : 2
+  } ]
+}, {
+  "type" : "line",
+  "name" : "28800",
+  "visible" : false,
+  "showInLegend" : true,
+  "markerSize" : 0,
+  "yValueFormatString" : "",
+  "dataPoints" : [ {
+    "label" : "23:31",
+    "y" : 2
+  }, {
+    "label" : "23:31",
+    "y" : 2
+  }, {
+    "label" : "23:36",
+    "y" : 2
+  }, {
+    "label" : "23:37",
+    "y" : 2
+  }, {
+    "label" : "23:40",
+    "y" : 2
+  }, {
+    "label" : "23:43",
+    "y" : 2
+  }, {
+    "label" : "23:43",
+    "y" : 2
+  }, {
+    "label" : "23:44",
+    "y" : 2
+  } ]
+}, {
+  "type" : "line",
+  "name" : "28900",
+  "visible" : false,
+  "showInLegend" : true,
+  "markerSize" : 0,
+  "yValueFormatString" : "",
+  "dataPoints" : [ {
+    "label" : "23:31",
+    "y" : 2
+  }, {
+    "label" : "23:31",
+    "y" : 2
+  }, {
+    "label" : "23:36",
+    "y" : 2
+  }, {
+    "label" : "23:37",
+    "y" : 2
+  }, {
+    "label" : "23:40",
+    "y" : 2
+  }, {
+    "label" : "23:43",
+    "y" : 2
+  }, {
+    "label" : "23:43",
+    "y" : 2
+  }, {
+    "label" : "23:44",
+    "y" : 2
+  } ]
+}, {
+  "type" : "line",
+  "name" : "29000",
+  "visible" : false,
+  "showInLegend" : true,
+  "markerSize" : 0,
+  "yValueFormatString" : "",
+  "dataPoints" : [ {
+    "label" : "23:31",
+    "y" : 531
+  }, {
+    "label" : "23:31",
+    "y" : 531
+  }, {
+    "label" : "23:36",
+    "y" : 531
+  }, {
+    "label" : "23:37",
+    "y" : 531
+  }, {
+    "label" : "23:40",
+    "y" : 531
+  }, {
+    "label" : "23:43",
+    "y" : 531
+  }, {
+    "label" : "23:43",
+    "y" : 531
+  }, {
+    "label" : "23:44",
+    "y" : 531
+  } ]
+}, {
+  "type" : "line",
+  "name" : "29100",
+  "visible" : false,
+  "showInLegend" : true,
+  "markerSize" : 0,
+  "yValueFormatString" : "",
+  "dataPoints" : [ {
+    "label" : "23:31",
+    "y" : 3
+  }, {
+    "label" : "23:31",
+    "y" : 3
+  }, {
+    "label" : "23:36",
+    "y" : 3
+  }, {
+    "label" : "23:37",
+    "y" : 3
+  }, {
+    "label" : "23:40",
+    "y" : 3
+  }, {
+    "label" : "23:43",
+    "y" : 3
+  }, {
+    "label" : "23:43",
+    "y" : 3
+  }, {
+    "label" : "23:44",
+    "y" : 3
+  } ]
+}, {
+  "type" : "line",
+  "name" : "29200",
+  "visible" : false,
+  "showInLegend" : true,
+  "markerSize" : 0,
+  "yValueFormatString" : "",
+  "dataPoints" : [ {
+    "label" : "23:31",
+    "y" : 3
+  }, {
+    "label" : "23:31",
+    "y" : 3
+  }, {
+    "label" : "23:36",
+    "y" : 3
+  }, {
+    "label" : "23:37",
+    "y" : 3
+  }, {
+    "label" : "23:40",
+    "y" : 3
+  }, {
+    "label" : "23:43",
+    "y" : 3
+  }, {
+    "label" : "23:43",
+    "y" : 3
+  }, {
+    "label" : "23:44",
+    "y" : 3
+  } ]
+}, {
+  "type" : "line",
+  "name" : "29300",
+  "visible" : false,
+  "showInLegend" : true,
+  "markerSize" : 0,
+  "yValueFormatString" : "",
+  "dataPoints" : [ {
+    "label" : "23:31",
+    "y" : 5
+  }, {
+    "label" : "23:31",
+    "y" : 5
+  }, {
+    "label" : "23:36",
+    "y" : 5
+  }, {
+    "label" : "23:37",
+    "y" : 5
+  }, {
+    "label" : "23:40",
+    "y" : 5
+  }, {
+    "label" : "23:43",
+    "y" : 5
+  }, {
+    "label" : "23:43",
+    "y" : 5
+  }, {
+    "label" : "23:44",
+    "y" : 5
+  } ]
+}, {
+  "type" : "line",
+  "name" : "29400",
+  "visible" : false,
+  "showInLegend" : true,
+  "markerSize" : 0,
+  "yValueFormatString" : "",
+  "dataPoints" : [ {
+    "label" : "23:31",
+    "y" : 55
+  }, {
+    "label" : "23:31",
+    "y" : 55
+  }, {
+    "label" : "23:36",
+    "y" : 55
+  }, {
+    "label" : "23:37",
+    "y" : 55
+  }, {
+    "label" : "23:40",
+    "y" : 55
+  }, {
+    "label" : "23:43",
+    "y" : 55
+  }, {
+    "label" : "23:43",
+    "y" : 55
+  }, {
+    "label" : "23:44",
+    "y" : 55
+  } ]
+}, {
+  "type" : "line",
+  "name" : "29500",
+  "visible" : false,
+  "showInLegend" : true,
+  "markerSize" : 0,
+  "yValueFormatString" : "",
+  "dataPoints" : [ {
+    "label" : "23:31",
+    "y" : 121
+  }, {
+    "label" : "23:31",
+    "y" : 121
+  }, {
+    "label" : "23:36",
+    "y" : 121
+  }, {
+    "label" : "23:37",
+    "y" : 121
+  }, {
+    "label" : "23:40",
+    "y" : 121
+  }, {
+    "label" : "23:43",
+    "y" : 121
+  }, {
+    "label" : "23:43",
+    "y" : 121
+  }, {
+    "label" : "23:44",
+    "y" : 121
+  } ]
+}, {
+  "type" : "line",
+  "name" : "29600",
+  "visible" : false,
+  "showInLegend" : true,
+  "markerSize" : 0,
+  "yValueFormatString" : "",
+  "dataPoints" : [ {
+    "label" : "23:31",
+    "y" : 8
+  }, {
+    "label" : "23:31",
+    "y" : 8
+  }, {
+    "label" : "23:36",
+    "y" : 8
+  }, {
+    "label" : "23:37",
+    "y" : 8
+  }, {
+    "label" : "23:40",
+    "y" : 8
+  }, {
+    "label" : "23:43",
+    "y" : 8
+  }, {
+    "label" : "23:43",
+    "y" : 8
+  }, {
+    "label" : "23:44",
+    "y" : 8
+  } ]
+}, {
+  "type" : "line",
+  "name" : "29700",
+  "visible" : false,
+  "showInLegend" : true,
+  "markerSize" : 0,
+  "yValueFormatString" : "",
+  "dataPoints" : [ {
+    "label" : "23:31",
+    "y" : 3
+  }, {
+    "label" : "23:31",
+    "y" : 3
+  }, {
+    "label" : "23:36",
+    "y" : 3
+  }, {
+    "label" : "23:37",
+    "y" : 3
+  }, {
+    "label" : "23:40",
+    "y" : 3
+  }, {
+    "label" : "23:43",
+    "y" : 3
+  }, {
+    "label" : "23:43",
+    "y" : 3
+  }, {
+    "label" : "23:44",
+    "y" : 3
+  } ]
+}, {
+  "type" : "line",
+  "name" : "29800",
+  "visible" : false,
+  "showInLegend" : true,
+  "markerSize" : 0,
+  "yValueFormatString" : "",
+  "dataPoints" : [ {
+    "label" : "23:31",
+    "y" : 8
+  }, {
+    "label" : "23:31",
+    "y" : 8
+  }, {
+    "label" : "23:36",
+    "y" : 8
+  }, {
+    "label" : "23:37",
+    "y" : 8
+  }, {
+    "label" : "23:40",
+    "y" : 8
+  }, {
+    "label" : "23:43",
+    "y" : 8
+  }, {
+    "label" : "23:43",
+    "y" : 8
+  }, {
+    "label" : "23:44",
+    "y" : 8
+  } ]
+}, {
+  "type" : "line",
+  "name" : "29900",
+  "visible" : false,
+  "showInLegend" : true,
+  "markerSize" : 0,
+  "yValueFormatString" : "",
+  "dataPoints" : [ {
+    "label" : "23:31",
+    "y" : 12
+  }, {
+    "label" : "23:31",
+    "y" : 12
+  }, {
+    "label" : "23:36",
+    "y" : 12
+  }, {
+    "label" : "23:37",
+    "y" : 12
+  }, {
+    "label" : "23:40",
+    "y" : 12
+  }, {
+    "label" : "23:43",
+    "y" : 12
+  }, {
+    "label" : "23:43",
+    "y" : 12
+  }, {
+    "label" : "23:44",
+    "y" : 12
+  } ]
+}, {
+  "type" : "line",
+  "name" : "30000",
+  "visible" : false,
+  "showInLegend" : true,
+  "markerSize" : 0,
+  "yValueFormatString" : "",
+  "dataPoints" : [ {
+    "label" : "23:31",
+    "y" : 2490
+  }, {
+    "label" : "23:31",
+    "y" : 2490
+  }, {
+    "label" : "23:36",
+    "y" : 2490
+  }, {
+    "label" : "23:37",
+    "y" : 2490
+  }, {
+    "label" : "23:40",
+    "y" : 2490
+  }, {
+    "label" : "23:43",
+    "y" : 2490
+  }, {
+    "label" : "23:43",
+    "y" : 2490
+  }, {
+    "label" : "23:44",
+    "y" : 2490
+  } ]
+}, {
+  "type" : "line",
+  "name" : "30100",
+  "visible" : false,
+  "showInLegend" : true,
+  "markerSize" : 0,
+  "yValueFormatString" : "",
+  "dataPoints" : [ {
+    "label" : "23:31",
+    "y" : 43
+  }, {
+    "label" : "23:31",
+    "y" : 43
+  }, {
+    "label" : "23:36",
+    "y" : 43
+  }, {
+    "label" : "23:37",
+    "y" : 43
+  }, {
+    "label" : "23:40",
+    "y" : 43
+  }, {
+    "label" : "23:43",
+    "y" : 43
+  }, {
+    "label" : "23:43",
+    "y" : 43
+  }, {
+    "label" : "23:44",
+    "y" : 43
+  } ]
+}, {
+  "type" : "line",
+  "name" : "30200",
+  "visible" : false,
+  "showInLegend" : true,
+  "markerSize" : 0,
+  "yValueFormatString" : "",
+  "dataPoints" : [ {
+    "label" : "23:31",
+    "y" : 35
+  }, {
+    "label" : "23:31",
+    "y" : 35
+  }, {
+    "label" : "23:36",
+    "y" : 35
+  }, {
+    "label" : "23:37",
+    "y" : 35
+  }, {
+    "label" : "23:40",
+    "y" : 35
+  }, {
+    "label" : "23:43",
+    "y" : 35
+  }, {
+    "label" : "23:43",
+    "y" : 35
+  }, {
+    "label" : "23:44",
+    "y" : 35
+  } ]
+}, {
+  "type" : "line",
+  "name" : "30300",
+  "visible" : false,
+  "showInLegend" : true,
+  "markerSize" : 0,
+  "yValueFormatString" : "",
+  "dataPoints" : [ {
+    "label" : "23:31",
+    "y" : 63
+  }, {
+    "label" : "23:31",
+    "y" : 63
+  }, {
+    "label" : "23:36",
+    "y" : 63
+  }, {
+    "label" : "23:37",
+    "y" : 63
+  }, {
+    "label" : "23:40",
+    "y" : 63
+  }, {
+    "label" : "23:43",
+    "y" : 63
+  }, {
+    "label" : "23:43",
+    "y" : 63
+  }, {
+    "label" : "23:44",
+    "y" : 63
+  } ]
+}, {
+  "type" : "line",
+  "name" : "30400",
+  "visible" : false,
+  "showInLegend" : true,
+  "markerSize" : 0,
+  "yValueFormatString" : "",
+  "dataPoints" : [ {
+    "label" : "23:31",
+    "y" : 182
+  }, {
+    "label" : "23:31",
+    "y" : 182
+  }, {
+    "label" : "23:36",
+    "y" : 182
+  }, {
+    "label" : "23:37",
+    "y" : 182
+  }, {
+    "label" : "23:40",
+    "y" : 182
+  }, {
+    "label" : "23:43",
+    "y" : 182
+  }, {
+    "label" : "23:43",
+    "y" : 182
+  }, {
+    "label" : "23:44",
+    "y" : 182
+  } ]
+}, {
+  "type" : "line",
+  "name" : "30500",
+  "visible" : false,
+  "showInLegend" : true,
+  "markerSize" : 0,
+  "yValueFormatString" : "",
+  "dataPoints" : [ {
+    "label" : "23:31",
+    "y" : 3682
+  }, {
+    "label" : "23:31",
+    "y" : 3682
+  }, {
+    "label" : "23:36",
+    "y" : 3682
+  }, {
+    "label" : "23:37",
+    "y" : 3682
+  }, {
+    "label" : "23:40",
+    "y" : 3682
+  }, {
+    "label" : "23:43",
+    "y" : 3682
+  }, {
+    "label" : "23:43",
+    "y" : 3682
+  }, {
+    "label" : "23:44",
+    "y" : 3682
+  } ]
+}, {
+  "type" : "line",
+  "name" : "30600",
+  "visible" : false,
+  "showInLegend" : true,
+  "markerSize" : 0,
+  "yValueFormatString" : "",
+  "dataPoints" : [ {
+    "label" : "23:31",
+    "y" : 277
+  }, {
+    "label" : "23:31",
+    "y" : 277
+  }, {
+    "label" : "23:36",
+    "y" : 277
+  }, {
+    "label" : "23:37",
+    "y" : 277
+  }, {
+    "label" : "23:40",
+    "y" : 277
+  }, {
+    "label" : "23:43",
+    "y" : 277
+  }, {
+    "label" : "23:43",
+    "y" : 277
+  }, {
+    "label" : "23:44",
+    "y" : 277
+  } ]
+}, {
+  "type" : "line",
+  "name" : "30700",
+  "visible" : false,
+  "showInLegend" : true,
+  "markerSize" : 0,
+  "yValueFormatString" : "",
+  "dataPoints" : [ {
+    "label" : "23:31",
+    "y" : 1057
+  }, {
+    "label" : "23:31",
+    "y" : 1057
+  }, {
+    "label" : "23:36",
+    "y" : 1057
+  }, {
+    "label" : "23:37",
+    "y" : 1057
+  }, {
+    "label" : "23:40",
+    "y" : 1057
+  }, {
+    "label" : "23:43",
+    "y" : 1057
+  }, {
+    "label" : "23:43",
+    "y" : 1057
+  }, {
+    "label" : "23:44",
+    "y" : 1057
+  } ]
+}, {
+  "type" : "line",
+  "name" : "30800",
+  "visible" : false,
+  "showInLegend" : true,
+  "markerSize" : 0,
+  "yValueFormatString" : "",
+  "dataPoints" : [ {
+    "label" : "23:31",
+    "y" : 668
+  }, {
+    "label" : "23:31",
+    "y" : 668
+  }, {
+    "label" : "23:36",
+    "y" : 668
+  }, {
+    "label" : "23:37",
+    "y" : 668
+  }, {
+    "label" : "23:40",
+    "y" : 668
+  }, {
+    "label" : "23:43",
+    "y" : 668
+  }, {
+    "label" : "23:43",
+    "y" : 668
+  }, {
+    "label" : "23:44",
+    "y" : 668
+  } ]
+}, {
+  "type" : "line",
+  "name" : "30900",
+  "visible" : false,
+  "showInLegend" : true,
+  "markerSize" : 0,
+  "yValueFormatString" : "",
+  "dataPoints" : [ {
+    "label" : "23:31",
+    "y" : 580
+  }, {
+    "label" : "23:31",
+    "y" : 580
+  }, {
+    "label" : "23:36",
+    "y" : 580
+  }, {
+    "label" : "23:37",
+    "y" : 580
+  }, {
+    "label" : "23:40",
+    "y" : 580
+  }, {
+    "label" : "23:43",
+    "y" : 580
+  }, {
+    "label" : "23:43",
+    "y" : 580
+  }, {
+    "label" : "23:44",
+    "y" : 580
+  } ]
+}, {
+  "type" : "line",
+  "name" : "31000",
+  "visible" : false,
+  "showInLegend" : true,
+  "markerSize" : 0,
+  "yValueFormatString" : "",
+  "dataPoints" : [ {
+    "label" : "23:31",
+    "y" : 8973
+  }, {
+    "label" : "23:31",
+    "y" : 8973
+  }, {
+    "label" : "23:36",
+    "y" : 8973
+  }, {
+    "label" : "23:37",
+    "y" : 8973
+  }, {
+    "label" : "23:40",
+    "y" : 8973
+  }, {
+    "label" : "23:43",
+    "y" : 8973
+  }, {
+    "label" : "23:43",
+    "y" : 8973
+  }, {
+    "label" : "23:44",
+    "y" : 8973
+  } ]
+}, {
+  "type" : "line",
+  "name" : "31100",
+  "visible" : false,
+  "showInLegend" : true,
+  "markerSize" : 0,
+  "yValueFormatString" : "",
+  "dataPoints" : [ {
+    "label" : "23:31",
+    "y" : 1251
+  }, {
+    "label" : "23:31",
+    "y" : 1251
+  }, {
+    "label" : "23:36",
+    "y" : 1251
+  }, {
+    "label" : "23:37",
+    "y" : 1251
+  }, {
+    "label" : "23:40",
+    "y" : 1251
+  }, {
+    "label" : "23:43",
+    "y" : 1251
+  }, {
+    "label" : "23:43",
+    "y" : 1251
+  }, {
+    "label" : "23:44",
+    "y" : 1251
+  } ]
+}, {
+  "type" : "line",
+  "name" : "31200",
+  "visible" : false,
+  "showInLegend" : true,
+  "markerSize" : 0,
+  "yValueFormatString" : "",
+  "dataPoints" : [ {
+    "label" : "23:31",
+    "y" : 769
+  }, {
+    "label" : "23:31",
+    "y" : 769
+  }, {
+    "label" : "23:36",
+    "y" : 769
+  }, {
+    "label" : "23:37",
+    "y" : 769
+  }, {
+    "label" : "23:40",
+    "y" : 769
+  }, {
+    "label" : "23:43",
+    "y" : 769
+  }, {
+    "label" : "23:43",
+    "y" : 769
+  }, {
+    "label" : "23:44",
+    "y" : 769
+  } ]
+}, {
+  "type" : "line",
+  "name" : "31300",
+  "visible" : false,
+  "showInLegend" : true,
+  "markerSize" : 0,
+  "yValueFormatString" : "",
+  "dataPoints" : [ {
+    "label" : "23:31",
+    "y" : 1005
+  }, {
+    "label" : "23:31",
+    "y" : 1005
+  }, {
+    "label" : "23:36",
+    "y" : 1005
+  }, {
+    "label" : "23:37",
+    "y" : 1005
+  }, {
+    "label" : "23:40",
+    "y" : 1005
+  }, {
+    "label" : "23:43",
+    "y" : 1005
+  }, {
+    "label" : "23:43",
+    "y" : 1005
+  }, {
+    "label" : "23:44",
+    "y" : 1005
+  } ]
+}, {
+  "type" : "line",
+  "name" : "31400",
+  "visible" : false,
+  "showInLegend" : true,
+  "markerSize" : 0,
+  "yValueFormatString" : "",
+  "dataPoints" : [ {
+    "label" : "23:31",
+    "y" : 1244
+  }, {
+    "label" : "23:31",
+    "y" : 1244
+  }, {
+    "label" : "23:36",
+    "y" : 1244
+  }, {
+    "label" : "23:37",
+    "y" : 1244
+  }, {
+    "label" : "23:40",
+    "y" : 1244
+  }, {
+    "label" : "23:43",
+    "y" : 1244
+  }, {
+    "label" : "23:43",
+    "y" : 1244
+  }, {
+    "label" : "23:44",
+    "y" : 1244
+  } ]
+}, {
+  "type" : "line",
+  "name" : "31500",
+  "visible" : false,
+  "showInLegend" : true,
+  "markerSize" : 0,
+  "yValueFormatString" : "",
+  "dataPoints" : [ {
+    "label" : "23:31",
+    "y" : 12328
+  }, {
+    "label" : "23:31",
+    "y" : 12328
+  }, {
+    "label" : "23:36",
+    "y" : 12328
+  }, {
+    "label" : "23:37",
+    "y" : 12328
+  }, {
+    "label" : "23:40",
+    "y" : 12328
+  }, {
+    "label" : "23:43",
+    "y" : 12328
+  }, {
+    "label" : "23:43",
+    "y" : 12328
+  }, {
+    "label" : "23:44",
+    "y" : 12328
+  } ]
+}, {
+  "type" : "line",
+  "name" : "31600",
+  "visible" : false,
+  "showInLegend" : true,
+  "markerSize" : 0,
+  "yValueFormatString" : "",
+  "dataPoints" : [ {
+    "label" : "23:31",
+    "y" : 2968
+  }, {
+    "label" : "23:31",
+    "y" : 2968
+  }, {
+    "label" : "23:36",
+    "y" : 2968
+  }, {
+    "label" : "23:37",
+    "y" : 2968
+  }, {
+    "label" : "23:40",
+    "y" : 2968
+  }, {
+    "label" : "23:43",
+    "y" : 2968
+  }, {
+    "label" : "23:43",
+    "y" : 2968
+  }, {
+    "label" : "23:44",
+    "y" : 2968
+  } ]
+}, {
+  "type" : "line",
+  "name" : "31700",
+  "visible" : false,
+  "showInLegend" : true,
+  "markerSize" : 0,
+  "yValueFormatString" : "",
+  "dataPoints" : [ {
+    "label" : "23:31",
+    "y" : 5332
+  }, {
+    "label" : "23:31",
+    "y" : 5332
+  }, {
+    "label" : "23:36",
+    "y" : 5332
+  }, {
+    "label" : "23:37",
+    "y" : 5332
+  }, {
+    "label" : "23:40",
+    "y" : 5332
+  }, {
+    "label" : "23:43",
+    "y" : 5332
+  }, {
+    "label" : "23:43",
+    "y" : 5332
+  }, {
+    "label" : "23:44",
+    "y" : 5332
+  } ]
+}, {
+  "type" : "line",
+  "name" : "31800",
+  "visible" : false,
+  "showInLegend" : true,
+  "markerSize" : 0,
+  "yValueFormatString" : "",
+  "dataPoints" : [ {
+    "label" : "23:31",
+    "y" : 6569
+  }, {
+    "label" : "23:31",
+    "y" : 6569
+  }, {
+    "label" : "23:36",
+    "y" : 6569
+  }, {
+    "label" : "23:37",
+    "y" : 6569
+  }, {
+    "label" : "23:40",
+    "y" : 6569
+  }, {
+    "label" : "23:43",
+    "y" : 6569
+  }, {
+    "label" : "23:43",
+    "y" : 6569
+  }, {
+    "label" : "23:44",
+    "y" : 6569
+  } ]
+}, {
+  "type" : "line",
+  "name" : "31900",
+  "visible" : false,
+  "showInLegend" : true,
+  "markerSize" : 0,
+  "yValueFormatString" : "",
+  "dataPoints" : [ {
+    "label" : "23:31",
+    "y" : 3386
+  }, {
+    "label" : "23:31",
+    "y" : 3386
+  }, {
+    "label" : "23:36",
+    "y" : 3386
+  }, {
+    "label" : "23:37",
+    "y" : 3386
+  }, {
+    "label" : "23:40",
+    "y" : 3386
+  }, {
+    "label" : "23:43",
+    "y" : 3386
+  }, {
+    "label" : "23:43",
+    "y" : 3386
+  }, {
+    "label" : "23:44",
+    "y" : 3386
+  } ]
+}, {
+  "type" : "line",
+  "name" : "32000",
+  "visible" : false,
+  "showInLegend" : true,
+  "markerSize" : 0,
+  "yValueFormatString" : "",
+  "dataPoints" : [ {
+    "label" : "23:31",
+    "y" : 37369
+  }, {
+    "label" : "23:31",
+    "y" : 37369
+  }, {
+    "label" : "23:36",
+    "y" : 37369
+  }, {
+    "label" : "23:37",
+    "y" : 37369
+  }, {
+    "label" : "23:40",
+    "y" : 37369
+  }, {
+    "label" : "23:43",
+    "y" : 37369
+  }, {
+    "label" : "23:43",
+    "y" : 37369
+  }, {
+    "label" : "23:44",
+    "y" : 37369
+  } ]
+}, {
+  "type" : "line",
+  "name" : "32100",
+  "visible" : false,
+  "showInLegend" : true,
+  "markerSize" : 0,
+  "yValueFormatString" : "",
+  "dataPoints" : [ {
+    "label" : "23:31",
+    "y" : 4172
+  }, {
+    "label" : "23:31",
+    "y" : 4172
+  }, {
+    "label" : "23:36",
+    "y" : 4172
+  }, {
+    "label" : "23:37",
+    "y" : 4172
+  }, {
+    "label" : "23:40",
+    "y" : 4172
+  }, {
+    "label" : "23:43",
+    "y" : 4172
+  }, {
+    "label" : "23:43",
+    "y" : 4172
+  }, {
+    "label" : "23:44",
+    "y" : 4172
+  } ]
+}, {
+  "type" : "line",
+  "name" : "32200",
+  "visible" : false,
+  "showInLegend" : true,
+  "markerSize" : 0,
+  "yValueFormatString" : "",
+  "dataPoints" : [ {
+    "label" : "23:31",
+    "y" : 5834
+  }, {
+    "label" : "23:31",
+    "y" : 5834
+  }, {
+    "label" : "23:36",
+    "y" : 5834
+  }, {
+    "label" : "23:37",
+    "y" : 5834
+  }, {
+    "label" : "23:40",
+    "y" : 5834
+  }, {
+    "label" : "23:43",
+    "y" : 5834
+  }, {
+    "label" : "23:43",
+    "y" : 5834
+  }, {
+    "label" : "23:44",
+    "y" : 5834
+  } ]
+}, {
+  "type" : "line",
+  "name" : "32300",
+  "visible" : false,
+  "showInLegend" : true,
+  "markerSize" : 0,
+  "yValueFormatString" : "",
+  "dataPoints" : [ {
+    "label" : "23:31",
+    "y" : 4170
+  }, {
+    "label" : "23:31",
+    "y" : 4170
+  }, {
+    "label" : "23:36",
+    "y" : 4170
+  }, {
+    "label" : "23:37",
+    "y" : 4170
+  }, {
+    "label" : "23:40",
+    "y" : 4170
+  }, {
+    "label" : "23:43",
+    "y" : 4170
+  }, {
+    "label" : "23:43",
+    "y" : 4170
+  }, {
+    "label" : "23:44",
+    "y" : 4170
+  } ]
+}, {
+  "type" : "line",
+  "name" : "32400",
+  "visible" : false,
+  "showInLegend" : true,
+  "markerSize" : 0,
+  "yValueFormatString" : "",
+  "dataPoints" : [ {
+    "label" : "23:31",
+    "y" : 3460
+  }, {
+    "label" : "23:31",
+    "y" : 3460
+  }, {
+    "label" : "23:36",
+    "y" : 3460
+  }, {
+    "label" : "23:37",
+    "y" : 3460
+  }, {
+    "label" : "23:40",
+    "y" : 3460
+  }, {
+    "label" : "23:43",
+    "y" : 3460
+  }, {
+    "label" : "23:43",
+    "y" : 3460
+  }, {
+    "label" : "23:44",
+    "y" : 3460
+  } ]
+}, {
+  "type" : "line",
+  "name" : "32500",
+  "visible" : false,
+  "showInLegend" : true,
+  "markerSize" : 0,
+  "yValueFormatString" : "",
+  "dataPoints" : [ {
+    "label" : "23:31",
+    "y" : 23016
+  }, {
+    "label" : "23:31",
+    "y" : 23016
+  }, {
+    "label" : "23:36",
+    "y" : 23016
+  }, {
+    "label" : "23:37",
+    "y" : 23016
+  }, {
+    "label" : "23:40",
+    "y" : 23016
+  }, {
+    "label" : "23:43",
+    "y" : 23016
+  }, {
+    "label" : "23:43",
+    "y" : 23016
+  }, {
+    "label" : "23:44",
+    "y" : 23016
+  } ]
+}, {
+  "type" : "line",
+  "name" : "32600",
+  "visible" : false,
+  "showInLegend" : true,
+  "markerSize" : 0,
+  "yValueFormatString" : "",
+  "dataPoints" : [ {
+    "label" : "23:31",
+    "y" : 3690
+  }, {
+    "label" : "23:31",
+    "y" : 3690
+  }, {
+    "label" : "23:36",
+    "y" : 3690
+  }, {
+    "label" : "23:37",
+    "y" : 3690
+  }, {
+    "label" : "23:40",
+    "y" : 3690
+  }, {
+    "label" : "23:43",
+    "y" : 3690
+  }, {
+    "label" : "23:43",
+    "y" : 3690
+  }, {
+    "label" : "23:44",
+    "y" : 3690
+  } ]
+}, {
+  "type" : "line",
+  "name" : "32700",
+  "visible" : false,
+  "showInLegend" : true,
+  "markerSize" : 0,
+  "yValueFormatString" : "",
+  "dataPoints" : [ {
+    "label" : "23:31",
+    "y" : 5028
+  }, {
+    "label" : "23:31",
+    "y" : 5028
+  }, {
+    "label" : "23:36",
+    "y" : 5028
+  }, {
+    "label" : "23:37",
+    "y" : 5028
+  }, {
+    "label" : "23:40",
+    "y" : 5028
+  }, {
+    "label" : "23:43",
+    "y" : 5028
+  }, {
+    "label" : "23:43",
+    "y" : 5028
+  }, {
+    "label" : "23:44",
+    "y" : 5028
+  } ]
+}, {
+  "type" : "line",
+  "name" : "32800",
+  "visible" : false,
+  "showInLegend" : true,
+  "markerSize" : 0,
+  "yValueFormatString" : "",
+  "dataPoints" : [ {
+    "label" : "23:31",
+    "y" : 3690
+  }, {
+    "label" : "23:31",
+    "y" : 3690
+  }, {
+    "label" : "23:36",
+    "y" : 3690
+  }, {
+    "label" : "23:37",
+    "y" : 3690
+  }, {
+    "label" : "23:40",
+    "y" : 3690
+  }, {
+    "label" : "23:43",
+    "y" : 3690
+  }, {
+    "label" : "23:43",
+    "y" : 3690
+  }, {
+    "label" : "23:44",
+    "y" : 3690
+  } ]
+}, {
+  "type" : "line",
+  "name" : "32900",
+  "visible" : false,
+  "showInLegend" : true,
+  "markerSize" : 0,
+  "yValueFormatString" : "",
+  "dataPoints" : [ {
+    "label" : "23:31",
+    "y" : 3785
+  }, {
+    "label" : "23:31",
+    "y" : 3785
+  }, {
+    "label" : "23:36",
+    "y" : 3785
+  }, {
+    "label" : "23:37",
+    "y" : 3785
+  }, {
+    "label" : "23:40",
+    "y" : 3785
+  }, {
+    "label" : "23:43",
+    "y" : 3785
+  }, {
+    "label" : "23:43",
+    "y" : 3785
+  }, {
+    "label" : "23:44",
+    "y" : 3785
+  } ]
+}, {
+  "type" : "line",
+  "name" : "33000",
+  "visible" : false,
+  "showInLegend" : true,
+  "markerSize" : 0,
+  "yValueFormatString" : "",
+  "dataPoints" : [ {
+    "label" : "23:31",
+    "y" : 39018
+  }, {
+    "label" : "23:31",
+    "y" : 39018
+  }, {
+    "label" : "23:36",
+    "y" : 39018
+  }, {
+    "label" : "23:37",
+    "y" : 39018
+  }, {
+    "label" : "23:40",
+    "y" : 39018
+  }, {
+    "label" : "23:43",
+    "y" : 39018
+  }, {
+    "label" : "23:43",
+    "y" : 39018
+  }, {
+    "label" : "23:44",
+    "y" : 39018
+  } ]
+}, {
+  "type" : "line",
+  "name" : "33100",
+  "visible" : false,
+  "showInLegend" : true,
+  "markerSize" : 0,
+  "yValueFormatString" : "",
+  "dataPoints" : [ {
+    "label" : "23:31",
+    "y" : 4054
+  }, {
+    "label" : "23:31",
+    "y" : 4054
+  }, {
+    "label" : "23:36",
+    "y" : 4054
+  }, {
+    "label" : "23:37",
+    "y" : 4054
+  }, {
+    "label" : "23:40",
+    "y" : 4054
+  }, {
+    "label" : "23:43",
+    "y" : 4054
+  }, {
+    "label" : "23:43",
+    "y" : 4054
+  }, {
+    "label" : "23:44",
+    "y" : 4054
+  } ]
+}, {
+  "type" : "line",
+  "name" : "33200",
+  "visible" : false,
+  "showInLegend" : true,
+  "markerSize" : 0,
+  "yValueFormatString" : "",
+  "dataPoints" : [ {
+    "label" : "23:31",
+    "y" : 4245
+  }, {
+    "label" : "23:31",
+    "y" : 4245
+  }, {
+    "label" : "23:36",
+    "y" : 4245
+  }, {
+    "label" : "23:37",
+    "y" : 4245
+  }, {
+    "label" : "23:40",
+    "y" : 4245
+  }, {
+    "label" : "23:43",
+    "y" : 4245
+  }, {
+    "label" : "23:43",
+    "y" : 4245
+  }, {
+    "label" : "23:44",
+    "y" : 4245
+  } ]
+}, {
+  "type" : "line",
+  "name" : "33300",
+  "visible" : false,
+  "showInLegend" : true,
+  "markerSize" : 0,
+  "yValueFormatString" : "",
+  "dataPoints" : [ {
+    "label" : "23:31",
+    "y" : 3915
+  }, {
+    "label" : "23:31",
+    "y" : 3915
+  }, {
+    "label" : "23:36",
+    "y" : 3915
+  }, {
+    "label" : "23:37",
+    "y" : 3915
+  }, {
+    "label" : "23:40",
+    "y" : 3915
+  }, {
+    "label" : "23:43",
+    "y" : 3915
+  }, {
+    "label" : "23:43",
+    "y" : 3915
+  }, {
+    "label" : "23:44",
+    "y" : 3915
+  } ]
+}, {
+  "type" : "line",
+  "name" : "33400",
+  "visible" : false,
+  "showInLegend" : true,
+  "markerSize" : 0,
+  "yValueFormatString" : "",
+  "dataPoints" : [ {
+    "label" : "23:31",
+    "y" : 2929
+  }, {
+    "label" : "23:31",
+    "y" : 2929
+  }, {
+    "label" : "23:36",
+    "y" : 2929
+  }, {
+    "label" : "23:37",
+    "y" : 2929
+  }, {
+    "label" : "23:40",
+    "y" : 2929
+  }, {
+    "label" : "23:43",
+    "y" : 2929
+  }, {
+    "label" : "23:43",
+    "y" : 2929
+  }, {
+    "label" : "23:44",
+    "y" : 2929
+  } ]
+}, {
+  "type" : "line",
+  "name" : "33500",
+  "visible" : false,
+  "showInLegend" : true,
+  "markerSize" : 0,
+  "yValueFormatString" : "",
+  "dataPoints" : [ {
+    "label" : "23:31",
+    "y" : 28201
+  }, {
+    "label" : "23:31",
+    "y" : 28201
+  }, {
+    "label" : "23:36",
+    "y" : 28201
+  }, {
+    "label" : "23:37",
+    "y" : 28201
+  }, {
+    "label" : "23:40",
+    "y" : 28201
+  }, {
+    "label" : "23:43",
+    "y" : 28201
+  }, {
+    "label" : "23:43",
+    "y" : 28201
+  }, {
+    "label" : "23:44",
+    "y" : 28201
+  } ]
+}, {
+  "type" : "line",
+  "name" : "33600",
+  "visible" : false,
+  "showInLegend" : true,
+  "markerSize" : 0,
+  "yValueFormatString" : "",
+  "dataPoints" : [ {
+    "label" : "23:31",
+    "y" : 4559
+  }, {
+    "label" : "23:31",
+    "y" : 4559
+  }, {
+    "label" : "23:36",
+    "y" : 4559
+  }, {
+    "label" : "23:37",
+    "y" : 4559
+  }, {
+    "label" : "23:40",
+    "y" : 4559
+  }, {
+    "label" : "23:43",
+    "y" : 4559
+  }, {
+    "label" : "23:43",
+    "y" : 4559
+  }, {
+    "label" : "23:44",
+    "y" : 4559
+  } ]
+}, {
+  "type" : "line",
+  "name" : "33700",
+  "visible" : false,
+  "showInLegend" : true,
+  "markerSize" : 0,
+  "yValueFormatString" : "",
+  "dataPoints" : [ {
+    "label" : "23:31",
+    "y" : 4501
+  }, {
+    "label" : "23:31",
+    "y" : 4501
+  }, {
+    "label" : "23:36",
+    "y" : 4501
+  }, {
+    "label" : "23:37",
+    "y" : 4501
+  }, {
+    "label" : "23:40",
+    "y" : 4501
+  }, {
+    "label" : "23:43",
+    "y" : 4501
+  }, {
+    "label" : "23:43",
+    "y" : 4501
+  }, {
+    "label" : "23:44",
+    "y" : 4501
+  } ]
+}, {
+  "type" : "line",
+  "name" : "33800",
+  "visible" : false,
+  "showInLegend" : true,
+  "markerSize" : 0,
+  "yValueFormatString" : "",
+  "dataPoints" : [ {
+    "label" : "23:31",
+    "y" : 3608
+  }, {
+    "label" : "23:31",
+    "y" : 3608
+  }, {
+    "label" : "23:36",
+    "y" : 3608
+  }, {
+    "label" : "23:37",
+    "y" : 3608
+  }, {
+    "label" : "23:40",
+    "y" : 3608
+  }, {
+    "label" : "23:43",
+    "y" : 3608
+  }, {
+    "label" : "23:43",
+    "y" : 3608
+  }, {
+    "label" : "23:44",
+    "y" : 3608
+  } ]
+}, {
+  "type" : "line",
+  "name" : "33900",
+  "visible" : false,
+  "showInLegend" : true,
+  "markerSize" : 0,
+  "yValueFormatString" : "",
+  "dataPoints" : [ {
+    "label" : "23:31",
+    "y" : 2565
+  }, {
+    "label" : "23:31",
+    "y" : 2565
+  }, {
+    "label" : "23:36",
+    "y" : 2565
+  }, {
+    "label" : "23:37",
+    "y" : 2565
+  }, {
+    "label" : "23:40",
+    "y" : 2565
+  }, {
+    "label" : "23:43",
+    "y" : 2565
+  }, {
+    "label" : "23:43",
+    "y" : 2565
+  }, {
+    "label" : "23:44",
+    "y" : 2565
+  } ]
+}, {
+  "type" : "line",
+  "name" : "34000",
+  "visible" : false,
+  "showInLegend" : true,
+  "markerSize" : 0,
+  "yValueFormatString" : "",
+  "dataPoints" : [ {
+    "label" : "23:31",
+    "y" : 36944
+  }, {
+    "label" : "23:31",
+    "y" : 36944
+  }, {
+    "label" : "23:36",
+    "y" : 36944
+  }, {
+    "label" : "23:37",
+    "y" : 36944
+  }, {
+    "label" : "23:40",
+    "y" : 36944
+  }, {
+    "label" : "23:43",
+    "y" : 36944
+  }, {
+    "label" : "23:43",
+    "y" : 36944
+  }, {
+    "label" : "23:44",
+    "y" : 36944
+  } ]
+}, {
+  "type" : "line",
+  "name" : "34100",
+  "visible" : false,
+  "showInLegend" : true,
+  "markerSize" : 0,
+  "yValueFormatString" : "",
+  "dataPoints" : [ {
+    "label" : "23:31",
+    "y" : 1398
+  }, {
+    "label" : "23:31",
+    "y" : 1398
+  }, {
+    "label" : "23:36",
+    "y" : 1398
+  }, {
+    "label" : "23:37",
+    "y" : 1398
+  }, {
+    "label" : "23:40",
+    "y" : 1398
+  }, {
+    "label" : "23:43",
+    "y" : 1398
+  }, {
+    "label" : "23:43",
+    "y" : 1398
+  }, {
+    "label" : "23:44",
+    "y" : 1398
+  } ]
+}, {
+  "type" : "line",
+  "name" : "34200",
+  "visible" : false,
+  "showInLegend" : true,
+  "markerSize" : 0,
+  "yValueFormatString" : "",
+  "dataPoints" : [ {
+    "label" : "23:31",
+    "y" : 3196
+  }, {
+    "label" : "23:31",
+    "y" : 3196
+  }, {
+    "label" : "23:36",
+    "y" : 3196
+  }, {
+    "label" : "23:37",
+    "y" : 3196
+  }, {
+    "label" : "23:40",
+    "y" : 3196
+  }, {
+    "label" : "23:43",
+    "y" : 3196
+  }, {
+    "label" : "23:43",
+    "y" : 3196
+  }, {
+    "label" : "23:44",
+    "y" : 3196
+  } ]
+}, {
+  "type" : "line",
+  "name" : "34300",
+  "visible" : false,
+  "showInLegend" : true,
+  "markerSize" : 0,
+  "yValueFormatString" : "",
+  "dataPoints" : [ {
+    "label" : "23:31",
+    "y" : 2640
+  }, {
+    "label" : "23:31",
+    "y" : 2640
+  }, {
+    "label" : "23:36",
+    "y" : 2640
+  }, {
+    "label" : "23:37",
+    "y" : 2640
+  }, {
+    "label" : "23:40",
+    "y" : 2640
+  }, {
+    "label" : "23:43",
+    "y" : 2640
+  }, {
+    "label" : "23:43",
+    "y" : 2640
+  }, {
+    "label" : "23:44",
+    "y" : 2640
+  } ]
+}, {
+  "type" : "line",
+  "name" : "34400",
+  "visible" : false,
+  "showInLegend" : true,
+  "markerSize" : 0,
+  "yValueFormatString" : "",
+  "dataPoints" : [ {
+    "label" : "23:31",
+    "y" : 1840
+  }, {
+    "label" : "23:31",
+    "y" : 1840
+  }, {
+    "label" : "23:36",
+    "y" : 1840
+  }, {
+    "label" : "23:37",
+    "y" : 1840
+  }, {
+    "label" : "23:40",
+    "y" : 1840
+  }, {
+    "label" : "23:43",
+    "y" : 1840
+  }, {
+    "label" : "23:43",
+    "y" : 1840
+  }, {
+    "label" : "23:44",
+    "y" : 1840
+  } ]
+}, {
+  "type" : "line",
+  "name" : "34500",
+  "visible" : true,
+  "showInLegend" : true,
+  "markerSize" : 0,
+  "yValueFormatString" : "",
+  "dataPoints" : [ {
+    "label" : "23:31",
+    "y" : 22928
+  }, {
+    "label" : "23:31",
+    "y" : 22928
+  }, {
+    "label" : "23:36",
+    "y" : 22928
+  }, {
+    "label" : "23:37",
+    "y" : 22928
+  }, {
+    "label" : "23:40",
+    "y" : 22928
+  }, {
+    "label" : "23:43",
+    "y" : 22928
+  }, {
+    "label" : "23:43",
+    "y" : 22928
+  }, {
+    "label" : "23:44",
+    "y" : 22928
+  } ]
+}, {
+  "type" : "line",
+  "name" : "34600",
+  "visible" : true,
+  "showInLegend" : true,
+  "markerSize" : 0,
+  "yValueFormatString" : "",
+  "dataPoints" : [ {
+    "label" : "23:31",
+    "y" : 1562
+  }, {
+    "label" : "23:31",
+    "y" : 1562
+  }, {
+    "label" : "23:36",
+    "y" : 1562
+  }, {
+    "label" : "23:37",
+    "y" : 1562
+  }, {
+    "label" : "23:40",
+    "y" : 1562
+  }, {
+    "label" : "23:43",
+    "y" : 1562
+  }, {
+    "label" : "23:43",
+    "y" : 1562
+  }, {
+    "label" : "23:44",
+    "y" : 1562
+  } ]
+}, {
+  "type" : "line",
+  "name" : "34700",
+  "visible" : true,
+  "showInLegend" : true,
+  "markerSize" : 0,
+  "yValueFormatString" : "",
+  "dataPoints" : [ {
+    "label" : "23:31",
+    "y" : 2112
+  }, {
+    "label" : "23:31",
+    "y" : 2112
+  }, {
+    "label" : "23:36",
+    "y" : 2112
+  }, {
+    "label" : "23:37",
+    "y" : 2112
+  }, {
+    "label" : "23:40",
+    "y" : 2112
+  }, {
+    "label" : "23:43",
+    "y" : 2112
+  }, {
+    "label" : "23:43",
+    "y" : 2112
+  }, {
+    "label" : "23:44",
+    "y" : 2112
+  } ]
+}, {
+  "type" : "line",
+  "name" : "34800",
+  "visible" : true,
+  "showInLegend" : true,
+  "markerSize" : 0,
+  "yValueFormatString" : "",
+  "dataPoints" : [ {
+    "label" : "23:31",
+    "y" : 2409
+  }, {
+    "label" : "23:31",
+    "y" : 2409
+  }, {
+    "label" : "23:36",
+    "y" : 2409
+  }, {
+    "label" : "23:37",
+    "y" : 2409
+  }, {
+    "label" : "23:40",
+    "y" : 2409
+  }, {
+    "label" : "23:43",
+    "y" : 2409
+  }, {
+    "label" : "23:43",
+    "y" : 2409
+  }, {
+    "label" : "23:44",
+    "y" : 2409
+  } ]
+}, {
+  "type" : "line",
+  "name" : "34900",
+  "visible" : true,
+  "showInLegend" : true,
+  "markerSize" : 0,
+  "yValueFormatString" : "",
+  "dataPoints" : [ {
+    "label" : "23:31",
+    "y" : 1442
+  }, {
+    "label" : "23:31",
+    "y" : 1442
+  }, {
+    "label" : "23:36",
+    "y" : 1442
+  }, {
+    "label" : "23:37",
+    "y" : 1442
+  }, {
+    "label" : "23:40",
+    "y" : 1442
+  }, {
+    "label" : "23:43",
+    "y" : 1442
+  }, {
+    "label" : "23:43",
+    "y" : 1442
+  }, {
+    "label" : "23:44",
+    "y" : 1442
+  } ]
+}, {
+  "type" : "line",
+  "name" : "35000",
+  "visible" : true,
+  "showInLegend" : true,
+  "markerSize" : 0,
+  "yValueFormatString" : "",
+  "dataPoints" : [ {
+    "label" : "23:31",
+    "y" : 18232
+  }, {
+    "label" : "23:31",
+    "y" : 18232
+  }, {
+    "label" : "23:36",
+    "y" : 18232
+  }, {
+    "label" : "23:37",
+    "y" : 18232
+  }, {
+    "label" : "23:40",
+    "y" : 18232
+  }, {
+    "label" : "23:43",
+    "y" : 18232
+  }, {
+    "label" : "23:43",
+    "y" : 18232
+  }, {
+    "label" : "23:44",
+    "y" : 18232
+  } ]
+}, {
+  "type" : "line",
+  "name" : "35100",
+  "visible" : false,
+  "showInLegend" : true,
+  "markerSize" : 0,
+  "yValueFormatString" : "",
+  "dataPoints" : [ {
+    "label" : "23:31",
+    "y" : 606
+  }, {
+    "label" : "23:31",
+    "y" : 606
+  }, {
+    "label" : "23:36",
+    "y" : 606
+  }, {
+    "label" : "23:37",
+    "y" : 606
+  }, {
+    "label" : "23:40",
+    "y" : 606
+  }, {
+    "label" : "23:43",
+    "y" : 606
+  }, {
+    "label" : "23:43",
+    "y" : 606
+  }, {
+    "label" : "23:44",
+    "y" : 606
+  } ]
+}, {
+  "type" : "line",
+  "name" : "35200",
+  "visible" : false,
+  "showInLegend" : true,
+  "markerSize" : 0,
+  "yValueFormatString" : "",
+  "dataPoints" : [ {
+    "label" : "23:31",
+    "y" : 483
+  }, {
+    "label" : "23:31",
+    "y" : 483
+  }, {
+    "label" : "23:36",
+    "y" : 483
+  }, {
+    "label" : "23:37",
+    "y" : 483
+  }, {
+    "label" : "23:40",
+    "y" : 483
+  }, {
+    "label" : "23:43",
+    "y" : 483
+  }, {
+    "label" : "23:43",
+    "y" : 483
+  }, {
+    "label" : "23:44",
+    "y" : 483
+  } ]
+}, {
+  "type" : "line",
+  "name" : "35300",
+  "visible" : false,
+  "showInLegend" : true,
+  "markerSize" : 0,
+  "yValueFormatString" : "",
+  "dataPoints" : [ {
+    "label" : "23:31",
+    "y" : 334
+  }, {
+    "label" : "23:31",
+    "y" : 334
+  }, {
+    "label" : "23:36",
+    "y" : 334
+  }, {
+    "label" : "23:37",
+    "y" : 334
+  }, {
+    "label" : "23:40",
+    "y" : 334
+  }, {
+    "label" : "23:43",
+    "y" : 334
+  }, {
+    "label" : "23:43",
+    "y" : 334
+  }, {
+    "label" : "23:44",
+    "y" : 334
+  } ]
+}, {
+  "type" : "line",
+  "name" : "35400",
+  "visible" : false,
+  "showInLegend" : true,
+  "markerSize" : 0,
+  "yValueFormatString" : "",
+  "dataPoints" : [ {
+    "label" : "23:31",
+    "y" : 537
+  }, {
+    "label" : "23:31",
+    "y" : 537
+  }, {
+    "label" : "23:36",
+    "y" : 537
+  }, {
+    "label" : "23:37",
+    "y" : 537
+  }, {
+    "label" : "23:40",
+    "y" : 537
+  }, {
+    "label" : "23:43",
+    "y" : 537
+  }, {
+    "label" : "23:43",
+    "y" : 537
+  }, {
+    "label" : "23:44",
+    "y" : 537
+  } ]
+}, {
+  "type" : "line",
+  "name" : "35500",
+  "visible" : false,
+  "showInLegend" : true,
+  "markerSize" : 0,
+  "yValueFormatString" : "",
+  "dataPoints" : [ {
+    "label" : "23:31",
+    "y" : 8127
+  }, {
+    "label" : "23:31",
+    "y" : 8127
+  }, {
+    "label" : "23:36",
+    "y" : 8127
+  }, {
+    "label" : "23:37",
+    "y" : 8127
+  }, {
+    "label" : "23:40",
+    "y" : 8127
+  }, {
+    "label" : "23:43",
+    "y" : 8127
+  }, {
+    "label" : "23:43",
+    "y" : 8127
+  }, {
+    "label" : "23:44",
+    "y" : 8127
+  } ]
+}, {
+  "type" : "line",
+  "name" : "35600",
+  "visible" : false,
+  "showInLegend" : true,
+  "markerSize" : 0,
+  "yValueFormatString" : "",
+  "dataPoints" : [ {
+    "label" : "23:31",
+    "y" : 504
+  }, {
+    "label" : "23:31",
+    "y" : 504
+  }, {
+    "label" : "23:36",
+    "y" : 504
+  }, {
+    "label" : "23:37",
+    "y" : 504
+  }, {
+    "label" : "23:40",
+    "y" : 504
+  }, {
+    "label" : "23:43",
+    "y" : 504
+  }, {
+    "label" : "23:43",
+    "y" : 504
+  }, {
+    "label" : "23:44",
+    "y" : 504
+  } ]
+}, {
+  "type" : "line",
+  "name" : "35700",
+  "visible" : false,
+  "showInLegend" : true,
+  "markerSize" : 0,
+  "yValueFormatString" : "",
+  "dataPoints" : [ {
+    "label" : "23:31",
+    "y" : 133
+  }, {
+    "label" : "23:31",
+    "y" : 133
+  }, {
+    "label" : "23:36",
+    "y" : 133
+  }, {
+    "label" : "23:37",
+    "y" : 133
+  }, {
+    "label" : "23:40",
+    "y" : 133
+  }, {
+    "label" : "23:43",
+    "y" : 133
+  }, {
+    "label" : "23:43",
+    "y" : 133
+  }, {
+    "label" : "23:44",
+    "y" : 133
+  } ]
+}, {
+  "type" : "line",
+  "name" : "35800",
+  "visible" : false,
+  "showInLegend" : true,
+  "markerSize" : 0,
+  "yValueFormatString" : "",
+  "dataPoints" : [ {
+    "label" : "23:31",
+    "y" : 243
+  }, {
+    "label" : "23:31",
+    "y" : 243
+  }, {
+    "label" : "23:36",
+    "y" : 243
+  }, {
+    "label" : "23:37",
+    "y" : 243
+  }, {
+    "label" : "23:40",
+    "y" : 243
+  }, {
+    "label" : "23:43",
+    "y" : 243
+  }, {
+    "label" : "23:43",
+    "y" : 243
+  }, {
+    "label" : "23:44",
+    "y" : 243
+  } ]
+}, {
+  "type" : "line",
+  "name" : "35900",
+  "visible" : false,
+  "showInLegend" : true,
+  "markerSize" : 0,
+  "yValueFormatString" : "",
+  "dataPoints" : [ {
+    "label" : "23:31",
+    "y" : 158
+  }, {
+    "label" : "23:31",
+    "y" : 158
+  }, {
+    "label" : "23:36",
+    "y" : 158
+  }, {
+    "label" : "23:37",
+    "y" : 158
+  }, {
+    "label" : "23:40",
+    "y" : 158
+  }, {
+    "label" : "23:43",
+    "y" : 158
+  }, {
+    "label" : "23:43",
+    "y" : 158
+  }, {
+    "label" : "23:44",
+    "y" : 158
+  } ]
+}, {
+  "type" : "line",
+  "name" : "36000",
+  "visible" : false,
+  "showInLegend" : true,
+  "markerSize" : 0,
+  "yValueFormatString" : "",
+  "dataPoints" : [ {
+    "label" : "23:31",
+    "y" : 10425
+  }, {
+    "label" : "23:31",
+    "y" : 10425
+  }, {
+    "label" : "23:36",
+    "y" : 10425
+  }, {
+    "label" : "23:37",
+    "y" : 10425
+  }, {
+    "label" : "23:40",
+    "y" : 10425
+  }, {
+    "label" : "23:43",
+    "y" : 10425
+  }, {
+    "label" : "23:43",
+    "y" : 10425
+  }, {
+    "label" : "23:44",
+    "y" : 10425
+  } ]
+}, {
+  "type" : "line",
+  "name" : "36100",
+  "visible" : false,
+  "showInLegend" : true,
+  "markerSize" : 0,
+  "yValueFormatString" : "",
+  "dataPoints" : [ {
+    "label" : "23:31",
+    "y" : 98
+  }, {
+    "label" : "23:31",
+    "y" : 98
+  }, {
+    "label" : "23:36",
+    "y" : 98
+  }, {
+    "label" : "23:37",
+    "y" : 98
+  }, {
+    "label" : "23:40",
+    "y" : 98
+  }, {
+    "label" : "23:43",
+    "y" : 98
+  }, {
+    "label" : "23:43",
+    "y" : 98
+  }, {
+    "label" : "23:44",
+    "y" : 98
+  } ]
+}, {
+  "type" : "line",
+  "name" : "36200",
+  "visible" : false,
+  "showInLegend" : true,
+  "markerSize" : 0,
+  "yValueFormatString" : "",
+  "dataPoints" : [ {
+    "label" : "23:31",
+    "y" : 130
+  }, {
+    "label" : "23:31",
+    "y" : 130
+  }, {
+    "label" : "23:36",
+    "y" : 130
+  }, {
+    "label" : "23:37",
+    "y" : 130
+  }, {
+    "label" : "23:40",
+    "y" : 130
+  }, {
+    "label" : "23:43",
+    "y" : 130
+  }, {
+    "label" : "23:43",
+    "y" : 130
+  }, {
+    "label" : "23:44",
+    "y" : 130
+  } ]
+}, {
+  "type" : "line",
+  "name" : "36300",
+  "visible" : false,
+  "showInLegend" : true,
+  "markerSize" : 0,
+  "yValueFormatString" : "",
+  "dataPoints" : [ {
+    "label" : "23:31",
+    "y" : 90
+  }, {
+    "label" : "23:31",
+    "y" : 90
+  }, {
+    "label" : "23:36",
+    "y" : 90
+  }, {
+    "label" : "23:37",
+    "y" : 90
+  }, {
+    "label" : "23:40",
+    "y" : 90
+  }, {
+    "label" : "23:43",
+    "y" : 90
+  }, {
+    "label" : "23:43",
+    "y" : 90
+  }, {
+    "label" : "23:44",
+    "y" : 90
+  } ]
+}, {
+  "type" : "line",
+  "name" : "36400",
+  "visible" : false,
+  "showInLegend" : true,
+  "markerSize" : 0,
+  "yValueFormatString" : "",
+  "dataPoints" : [ {
+    "label" : "23:31",
+    "y" : 56
+  }, {
+    "label" : "23:31",
+    "y" : 56
+  }, {
+    "label" : "23:36",
+    "y" : 56
+  }, {
+    "label" : "23:37",
+    "y" : 56
+  }, {
+    "label" : "23:40",
+    "y" : 56
+  }, {
+    "label" : "23:43",
+    "y" : 56
+  }, {
+    "label" : "23:43",
+    "y" : 56
+  }, {
+    "label" : "23:44",
+    "y" : 56
+  } ]
+}, {
+  "type" : "line",
+  "name" : "36500",
+  "visible" : false,
+  "showInLegend" : true,
+  "markerSize" : 0,
+  "yValueFormatString" : "",
+  "dataPoints" : [ {
+    "label" : "23:31",
+    "y" : 3367
+  }, {
+    "label" : "23:31",
+    "y" : 3367
+  }, {
+    "label" : "23:36",
+    "y" : 3367
+  }, {
+    "label" : "23:37",
+    "y" : 3367
+  }, {
+    "label" : "23:40",
+    "y" : 3367
+  }, {
+    "label" : "23:43",
+    "y" : 3367
+  }, {
+    "label" : "23:43",
+    "y" : 3367
+  }, {
+    "label" : "23:44",
+    "y" : 3367
+  } ]
+}, {
+  "type" : "line",
+  "name" : "36600",
+  "visible" : false,
+  "showInLegend" : true,
+  "markerSize" : 0,
+  "yValueFormatString" : "",
+  "dataPoints" : [ {
+    "label" : "23:31",
+    "y" : 74
+  }, {
+    "label" : "23:31",
+    "y" : 74
+  }, {
+    "label" : "23:36",
+    "y" : 74
+  }, {
+    "label" : "23:37",
+    "y" : 74
+  }, {
+    "label" : "23:40",
+    "y" : 74
+  }, {
+    "label" : "23:43",
+    "y" : 74
+  }, {
+    "label" : "23:43",
+    "y" : 74
+  }, {
+    "label" : "23:44",
+    "y" : 74
+  } ]
+}, {
+  "type" : "line",
+  "name" : "36700",
+  "visible" : false,
+  "showInLegend" : true,
+  "markerSize" : 0,
+  "yValueFormatString" : "",
+  "dataPoints" : [ {
+    "label" : "23:31",
+    "y" : 175
+  }, {
+    "label" : "23:31",
+    "y" : 175
+  }, {
+    "label" : "23:36",
+    "y" : 175
+  }, {
+    "label" : "23:37",
+    "y" : 175
+  }, {
+    "label" : "23:40",
+    "y" : 175
+  }, {
+    "label" : "23:43",
+    "y" : 175
+  }, {
+    "label" : "23:43",
+    "y" : 175
+  }, {
+    "label" : "23:44",
+    "y" : 175
+  } ]
+}, {
+  "type" : "line",
+  "name" : "36800",
+  "visible" : false,
+  "showInLegend" : true,
+  "markerSize" : 0,
+  "yValueFormatString" : "",
+  "dataPoints" : [ {
+    "label" : "23:31",
+    "y" : 75
+  }, {
+    "label" : "23:31",
+    "y" : 75
+  }, {
+    "label" : "23:36",
+    "y" : 75
+  }, {
+    "label" : "23:37",
+    "y" : 75
+  }, {
+    "label" : "23:40",
+    "y" : 75
+  }, {
+    "label" : "23:43",
+    "y" : 75
+  }, {
+    "label" : "23:43",
+    "y" : 75
+  }, {
+    "label" : "23:44",
+    "y" : 75
+  } ]
+}, {
+  "type" : "line",
+  "name" : "36900",
+  "visible" : false,
+  "showInLegend" : true,
+  "markerSize" : 0,
+  "yValueFormatString" : "",
+  "dataPoints" : [ {
+    "label" : "23:31",
+    "y" : 37
+  }, {
+    "label" : "23:31",
+    "y" : 37
+  }, {
+    "label" : "23:36",
+    "y" : 37
+  }, {
+    "label" : "23:37",
+    "y" : 37
+  }, {
+    "label" : "23:40",
+    "y" : 37
+  }, {
+    "label" : "23:43",
+    "y" : 37
+  }, {
+    "label" : "23:43",
+    "y" : 37
+  }, {
+    "label" : "23:44",
+    "y" : 37
+  } ]
+}, {
+  "type" : "line",
+  "name" : "37000",
+  "visible" : false,
+  "showInLegend" : true,
+  "markerSize" : 0,
+  "yValueFormatString" : "",
+  "dataPoints" : [ {
+    "label" : "23:31",
+    "y" : 4446
+  }, {
+    "label" : "23:31",
+    "y" : 4446
+  }, {
+    "label" : "23:36",
+    "y" : 4446
+  }, {
+    "label" : "23:37",
+    "y" : 4446
+  }, {
+    "label" : "23:40",
+    "y" : 4446
+  }, {
+    "label" : "23:43",
+    "y" : 4446
+  }, {
+    "label" : "23:43",
+    "y" : 4446
+  }, {
+    "label" : "23:44",
+    "y" : 4446
+  } ]
+}, {
+  "type" : "line",
+  "name" : "37100",
+  "visible" : false,
+  "showInLegend" : true,
+  "markerSize" : 0,
+  "yValueFormatString" : "",
+  "dataPoints" : [ {
+    "label" : "23:31",
+    "y" : 94
+  }, {
+    "label" : "23:31",
+    "y" : 94
+  }, {
+    "label" : "23:36",
+    "y" : 94
+  }, {
+    "label" : "23:37",
+    "y" : 94
+  }, {
+    "label" : "23:40",
+    "y" : 94
+  }, {
+    "label" : "23:43",
+    "y" : 94
+  }, {
+    "label" : "23:43",
+    "y" : 94
+  }, {
+    "label" : "23:44",
+    "y" : 94
+  } ]
+}, {
+  "type" : "line",
+  "name" : "37200",
+  "visible" : false,
+  "showInLegend" : true,
+  "markerSize" : 0,
+  "yValueFormatString" : "",
+  "dataPoints" : [ {
+    "label" : "23:31",
+    "y" : 33
+  }, {
+    "label" : "23:31",
+    "y" : 33
+  }, {
+    "label" : "23:36",
+    "y" : 33
+  }, {
+    "label" : "23:37",
+    "y" : 33
+  }, {
+    "label" : "23:40",
+    "y" : 33
+  }, {
+    "label" : "23:43",
+    "y" : 33
+  }, {
+    "label" : "23:43",
+    "y" : 33
+  }, {
+    "label" : "23:44",
+    "y" : 33
+  } ]
+}, {
+  "type" : "line",
+  "name" : "37300",
+  "visible" : false,
+  "showInLegend" : true,
+  "markerSize" : 0,
+  "yValueFormatString" : "",
+  "dataPoints" : [ {
+    "label" : "23:31",
+    "y" : 27
+  }, {
+    "label" : "23:31",
+    "y" : 27
+  }, {
+    "label" : "23:36",
+    "y" : 27
+  }, {
+    "label" : "23:37",
+    "y" : 27
+  }, {
+    "label" : "23:40",
+    "y" : 27
+  }, {
+    "label" : "23:43",
+    "y" : 27
+  }, {
+    "label" : "23:43",
+    "y" : 27
+  }, {
+    "label" : "23:44",
+    "y" : 27
+  } ]
+}, {
+  "type" : "line",
+  "name" : "37400",
+  "visible" : false,
+  "showInLegend" : true,
+  "markerSize" : 0,
+  "yValueFormatString" : "",
+  "dataPoints" : [ {
+    "label" : "23:31",
+    "y" : 124
+  }, {
+    "label" : "23:31",
+    "y" : 124
+  }, {
+    "label" : "23:36",
+    "y" : 124
+  }, {
+    "label" : "23:37",
+    "y" : 124
+  }, {
+    "label" : "23:40",
+    "y" : 124
+  }, {
+    "label" : "23:43",
+    "y" : 124
+  }, {
+    "label" : "23:43",
+    "y" : 124
+  }, {
+    "label" : "23:44",
+    "y" : 124
+  } ]
+}, {
+  "type" : "line",
+  "name" : "37500",
+  "visible" : false,
+  "showInLegend" : true,
+  "markerSize" : 0,
+  "yValueFormatString" : "",
+  "dataPoints" : [ {
+    "label" : "23:31",
+    "y" : 1945
+  }, {
+    "label" : "23:31",
+    "y" : 1945
+  }, {
+    "label" : "23:36",
+    "y" : 1945
+  }, {
+    "label" : "23:37",
+    "y" : 1945
+  }, {
+    "label" : "23:40",
+    "y" : 1945
+  }, {
+    "label" : "23:43",
+    "y" : 1945
+  }, {
+    "label" : "23:43",
+    "y" : 1945
+  }, {
+    "label" : "23:44",
+    "y" : 1945
+  } ]
+}, {
+  "type" : "line",
+  "name" : "37600",
+  "visible" : false,
+  "showInLegend" : true,
+  "markerSize" : 0,
+  "yValueFormatString" : "",
+  "dataPoints" : [ {
+    "label" : "23:31",
+    "y" : 27
+  }, {
+    "label" : "23:31",
+    "y" : 27
+  }, {
+    "label" : "23:36",
+    "y" : 27
+  }, {
+    "label" : "23:37",
+    "y" : 27
+  }, {
+    "label" : "23:40",
+    "y" : 27
+  }, {
+    "label" : "23:43",
+    "y" : 27
+  }, {
+    "label" : "23:43",
+    "y" : 27
+  }, {
+    "label" : "23:44",
+    "y" : 27
+  } ]
+}, {
+  "type" : "line",
+  "name" : "37700",
+  "visible" : false,
+  "showInLegend" : true,
+  "markerSize" : 0,
+  "yValueFormatString" : "",
+  "dataPoints" : [ {
+    "label" : "23:31",
+    "y" : 16
+  }, {
+    "label" : "23:31",
+    "y" : 16
+  }, {
+    "label" : "23:36",
+    "y" : 16
+  }, {
+    "label" : "23:37",
+    "y" : 16
+  }, {
+    "label" : "23:40",
+    "y" : 16
+  }, {
+    "label" : "23:43",
+    "y" : 16
+  }, {
+    "label" : "23:43",
+    "y" : 16
+  }, {
+    "label" : "23:44",
+    "y" : 16
+  } ]
+}, {
+  "type" : "line",
+  "name" : "37800",
+  "visible" : false,
+  "showInLegend" : true,
+  "markerSize" : 0,
+  "yValueFormatString" : "",
+  "dataPoints" : [ {
+    "label" : "23:31",
+    "y" : 0
+  }, {
+    "label" : "23:31",
+    "y" : 0
+  }, {
+    "label" : "23:36",
+    "y" : 0
+  }, {
+    "label" : "23:37",
+    "y" : 0
+  }, {
+    "label" : "23:40",
+    "y" : 0
+  }, {
+    "label" : "23:43",
+    "y" : 0
+  }, {
+    "label" : "23:43",
+    "y" : 0
+  }, {
+    "label" : "23:44",
+    "y" : 0
+  } ]
+}, {
+  "type" : "line",
+  "name" : "37900",
+  "visible" : false,
+  "showInLegend" : true,
+  "markerSize" : 0,
+  "yValueFormatString" : "",
+  "dataPoints" : [ {
+    "label" : "23:31",
+    "y" : 1
+  }, {
+    "label" : "23:31",
+    "y" : 1
+  }, {
+    "label" : "23:36",
+    "y" : 1
+  }, {
+    "label" : "23:37",
+    "y" : 1
+  }, {
+    "label" : "23:40",
+    "y" : 1
+  }, {
+    "label" : "23:43",
+    "y" : 1
+  }, {
+    "label" : "23:43",
+    "y" : 1
+  }, {
+    "label" : "23:44",
+    "y" : 1
+  } ]
+}, {
+  "type" : "line",
+  "name" : "38000",
+  "visible" : false,
+  "showInLegend" : true,
+  "markerSize" : 0,
+  "yValueFormatString" : "",
+  "dataPoints" : [ {
+    "label" : "23:31",
+    "y" : 5549
+  }, {
+    "label" : "23:31",
+    "y" : 5549
+  }, {
+    "label" : "23:36",
+    "y" : 5549
+  }, {
+    "label" : "23:37",
+    "y" : 5549
+  }, {
+    "label" : "23:40",
+    "y" : 5549
+  }, {
+    "label" : "23:43",
+    "y" : 5549
+  }, {
+    "label" : "23:43",
+    "y" : 5549
+  }, {
+    "label" : "23:44",
+    "y" : 5549
+  } ]
+}, {
+  "type" : "line",
+  "name" : "38100",
+  "visible" : false,
+  "showInLegend" : true,
+  "markerSize" : 0,
+  "yValueFormatString" : "",
+  "dataPoints" : [ {
+    "label" : "23:31",
+    "y" : 0
+  }, {
+    "label" : "23:31",
+    "y" : 0
+  }, {
+    "label" : "23:36",
+    "y" : 0
+  }, {
+    "label" : "23:37",
+    "y" : 0
+  }, {
+    "label" : "23:40",
+    "y" : 0
+  }, {
+    "label" : "23:43",
+    "y" : 0
+  }, {
+    "label" : "23:43",
+    "y" : 0
+  }, {
+    "label" : "23:44",
+    "y" : 0
+  } ]
+}, {
+  "type" : "line",
+  "name" : "38200",
+  "visible" : false,
+  "showInLegend" : true,
+  "markerSize" : 0,
+  "yValueFormatString" : "",
+  "dataPoints" : [ {
+    "label" : "23:31",
+    "y" : 0
+  }, {
+    "label" : "23:31",
+    "y" : 0
+  }, {
+    "label" : "23:36",
+    "y" : 0
+  }, {
+    "label" : "23:37",
+    "y" : 0
+  }, {
+    "label" : "23:40",
+    "y" : 0
+  }, {
+    "label" : "23:43",
+    "y" : 0
+  }, {
+    "label" : "23:43",
+    "y" : 0
+  }, {
+    "label" : "23:44",
+    "y" : 0
+  } ]
+}, {
+  "type" : "line",
+  "name" : "38300",
+  "visible" : false,
+  "showInLegend" : true,
+  "markerSize" : 0,
+  "yValueFormatString" : "",
+  "dataPoints" : [ {
+    "label" : "23:31",
+    "y" : 0
+  }, {
+    "label" : "23:31",
+    "y" : 0
+  }, {
+    "label" : "23:36",
+    "y" : 0
+  }, {
+    "label" : "23:37",
+    "y" : 0
+  }, {
+    "label" : "23:40",
+    "y" : 0
+  }, {
+    "label" : "23:43",
+    "y" : 0
+  }, {
+    "label" : "23:43",
+    "y" : 0
+  }, {
+    "label" : "23:44",
+    "y" : 0
+  } ]
+}, {
+  "type" : "line",
+  "name" : "38400",
+  "visible" : false,
+  "showInLegend" : true,
+  "markerSize" : 0,
+  "yValueFormatString" : "",
+  "dataPoints" : [ {
+    "label" : "23:31",
+    "y" : 0
+  }, {
+    "label" : "23:31",
+    "y" : 0
+  }, {
+    "label" : "23:36",
+    "y" : 0
+  }, {
+    "label" : "23:37",
+    "y" : 0
+  }, {
+    "label" : "23:40",
+    "y" : 0
+  }, {
+    "label" : "23:43",
+    "y" : 0
+  }, {
+    "label" : "23:43",
+    "y" : 0
+  }, {
+    "label" : "23:44",
+    "y" : 0
+  } ]
+}, {
+  "type" : "line",
+  "name" : "38500",
+  "visible" : false,
+  "showInLegend" : true,
+  "markerSize" : 0,
+  "yValueFormatString" : "",
+  "dataPoints" : [ {
+    "label" : "23:31",
+    "y" : 4402
+  }, {
+    "label" : "23:31",
+    "y" : 4402
+  }, {
+    "label" : "23:36",
+    "y" : 4402
+  }, {
+    "label" : "23:37",
+    "y" : 4402
+  }, {
+    "label" : "23:40",
+    "y" : 4402
+  }, {
+    "label" : "23:43",
+    "y" : 4402
+  }, {
+    "label" : "23:43",
+    "y" : 4402
+  }, {
+    "label" : "23:44",
+    "y" : 4402
+  } ]
+}, {
+  "type" : "line",
+  "name" : "38600",
+  "visible" : false,
+  "showInLegend" : true,
+  "markerSize" : 0,
+  "yValueFormatString" : "",
+  "dataPoints" : [ {
+    "label" : "23:31",
+    "y" : 0
+  }, {
+    "label" : "23:31",
+    "y" : 0
+  }, {
+    "label" : "23:36",
+    "y" : 0
+  }, {
+    "label" : "23:37",
+    "y" : 0
+  }, {
+    "label" : "23:40",
+    "y" : 0
+  }, {
+    "label" : "23:43",
+    "y" : 0
+  }, {
+    "label" : "23:43",
+    "y" : 0
+  }, {
+    "label" : "23:44",
+    "y" : 0
+  } ]
+}, {
+  "type" : "line",
+  "name" : "38700",
+  "visible" : false,
+  "showInLegend" : true,
+  "markerSize" : 0,
+  "yValueFormatString" : "",
+  "dataPoints" : [ {
+    "label" : "23:31",
+    "y" : 0
+  }, {
+    "label" : "23:31",
+    "y" : 0
+  }, {
+    "label" : "23:36",
+    "y" : 0
+  }, {
+    "label" : "23:37",
+    "y" : 0
+  }, {
+    "label" : "23:40",
+    "y" : 0
+  }, {
+    "label" : "23:43",
+    "y" : 0
+  }, {
+    "label" : "23:43",
+    "y" : 0
+  }, {
+    "label" : "23:44",
+    "y" : 0
+  } ]
+}, {
+  "type" : "line",
+  "name" : "38800",
+  "visible" : false,
+  "showInLegend" : true,
+  "markerSize" : 0,
+  "yValueFormatString" : "",
+  "dataPoints" : [ {
+    "label" : "23:31",
+    "y" : 0
+  }, {
+    "label" : "23:31",
+    "y" : 0
+  }, {
+    "label" : "23:36",
+    "y" : 0
+  }, {
+    "label" : "23:37",
+    "y" : 0
+  }, {
+    "label" : "23:40",
+    "y" : 0
+  }, {
+    "label" : "23:43",
+    "y" : 0
+  }, {
+    "label" : "23:43",
+    "y" : 0
+  }, {
+    "label" : "23:44",
+    "y" : 0
+  } ]
+}, {
+  "type" : "line",
+  "name" : "38900",
+  "visible" : false,
+  "showInLegend" : true,
+  "markerSize" : 0,
+  "yValueFormatString" : "",
+  "dataPoints" : [ {
+    "label" : "23:31",
+    "y" : 0
+  }, {
+    "label" : "23:31",
+    "y" : 0
+  }, {
+    "label" : "23:36",
+    "y" : 0
+  }, {
+    "label" : "23:37",
+    "y" : 0
+  }, {
+    "label" : "23:40",
+    "y" : 0
+  }, {
+    "label" : "23:43",
+    "y" : 0
+  }, {
+    "label" : "23:43",
+    "y" : 0
+  }, {
+    "label" : "23:44",
+    "y" : 0
+  } ]
+}, {
+  "type" : "line",
+  "name" : "39000",
+  "visible" : false,
+  "showInLegend" : true,
+  "markerSize" : 0,
+  "yValueFormatString" : "",
+  "dataPoints" : [ {
+    "label" : "23:31",
+    "y" : 6411
+  }, {
+    "label" : "23:31",
+    "y" : 6411
+  }, {
+    "label" : "23:36",
+    "y" : 6411
+  }, {
+    "label" : "23:37",
+    "y" : 6411
+  }, {
+    "label" : "23:40",
+    "y" : 6411
+  }, {
+    "label" : "23:43",
+    "y" : 6411
+  }, {
+    "label" : "23:43",
+    "y" : 6411
+  }, {
+    "label" : "23:44",
+    "y" : 6411
+  } ]
+}, {
+  "type" : "line",
+  "name" : "39100",
+  "visible" : false,
+  "showInLegend" : true,
+  "markerSize" : 0,
+  "yValueFormatString" : "",
+  "dataPoints" : [ {
+    "label" : "23:31",
+    "y" : 0
+  }, {
+    "label" : "23:31",
+    "y" : 0
+  }, {
+    "label" : "23:36",
+    "y" : 0
+  }, {
+    "label" : "23:37",
+    "y" : 0
+  }, {
+    "label" : "23:40",
+    "y" : 0
+  }, {
+    "label" : "23:43",
+    "y" : 0
+  }, {
+    "label" : "23:43",
+    "y" : 0
+  }, {
+    "label" : "23:44",
+    "y" : 0
+  } ]
+}, {
+  "type" : "line",
+  "name" : "39200",
+  "visible" : false,
+  "showInLegend" : true,
+  "markerSize" : 0,
+  "yValueFormatString" : "",
+  "dataPoints" : [ {
+    "label" : "23:31",
+    "y" : 0
+  }, {
+    "label" : "23:31",
+    "y" : 0
+  }, {
+    "label" : "23:36",
+    "y" : 0
+  }, {
+    "label" : "23:37",
+    "y" : 0
+  }, {
+    "label" : "23:40",
+    "y" : 0
+  }, {
+    "label" : "23:43",
+    "y" : 0
+  }, {
+    "label" : "23:43",
+    "y" : 0
+  }, {
+    "label" : "23:44",
+    "y" : 0
+  } ]
+}, {
+  "type" : "line",
+  "name" : "39300",
+  "visible" : false,
+  "showInLegend" : true,
+  "markerSize" : 0,
+  "yValueFormatString" : "",
+  "dataPoints" : [ {
+    "label" : "23:31",
+    "y" : 0
+  }, {
+    "label" : "23:31",
+    "y" : 0
+  }, {
+    "label" : "23:36",
+    "y" : 0
+  }, {
+    "label" : "23:37",
+    "y" : 0
+  }, {
+    "label" : "23:40",
+    "y" : 0
+  }, {
+    "label" : "23:43",
+    "y" : 0
+  }, {
+    "label" : "23:43",
+    "y" : 0
+  }, {
+    "label" : "23:44",
+    "y" : 0
+  } ]
+}, {
+  "type" : "line",
+  "name" : "39400",
+  "visible" : false,
+  "showInLegend" : true,
+  "markerSize" : 0,
+  "yValueFormatString" : "",
+  "dataPoints" : [ {
+    "label" : "23:31",
+    "y" : 0
+  }, {
+    "label" : "23:31",
+    "y" : 0
+  }, {
+    "label" : "23:36",
+    "y" : 0
+  }, {
+    "label" : "23:37",
+    "y" : 0
+  }, {
+    "label" : "23:40",
+    "y" : 0
+  }, {
+    "label" : "23:43",
+    "y" : 0
+  }, {
+    "label" : "23:43",
+    "y" : 0
+  }, {
+    "label" : "23:44",
+    "y" : 0
+  } ]
+}, {
+  "type" : "line",
+  "name" : "39500",
+  "visible" : false,
+  "showInLegend" : true,
+  "markerSize" : 0,
+  "yValueFormatString" : "",
+  "dataPoints" : [ {
+    "label" : "23:31",
+    "y" : 1451
+  }, {
+    "label" : "23:31",
+    "y" : 1451
+  }, {
+    "label" : "23:36",
+    "y" : 1451
+  }, {
+    "label" : "23:37",
+    "y" : 1451
+  }, {
+    "label" : "23:40",
+    "y" : 1451
+  }, {
+    "label" : "23:43",
+    "y" : 1451
+  }, {
+    "label" : "23:43",
+    "y" : 1451
+  }, {
+    "label" : "23:44",
+    "y" : 1451
+  } ]
+}, {
+  "type" : "line",
+  "name" : "39600",
+  "visible" : false,
+  "showInLegend" : true,
+  "markerSize" : 0,
+  "yValueFormatString" : "",
+  "dataPoints" : [ {
+    "label" : "23:31",
+    "y" : 0
+  }, {
+    "label" : "23:31",
+    "y" : 0
+  }, {
+    "label" : "23:36",
+    "y" : 0
+  }, {
+    "label" : "23:37",
+    "y" : 0
+  }, {
+    "label" : "23:40",
+    "y" : 0
+  }, {
+    "label" : "23:43",
+    "y" : 0
+  }, {
+    "label" : "23:43",
+    "y" : 0
+  }, {
+    "label" : "23:44",
+    "y" : 0
+  } ]
+}, {
+  "type" : "line",
+  "name" : "39700",
+  "visible" : false,
+  "showInLegend" : true,
+  "markerSize" : 0,
+  "yValueFormatString" : "",
+  "dataPoints" : [ {
+    "label" : "23:31",
+    "y" : 0
+  }, {
+    "label" : "23:31",
+    "y" : 0
+  }, {
+    "label" : "23:36",
+    "y" : 0
+  }, {
+    "label" : "23:37",
+    "y" : 0
+  }, {
+    "label" : "23:40",
+    "y" : 0
+  }, {
+    "label" : "23:43",
+    "y" : 0
+  }, {
+    "label" : "23:43",
+    "y" : 0
+  }, {
+    "label" : "23:44",
+    "y" : 0
+  } ]
+}, {
+  "type" : "line",
+  "name" : "39800",
+  "visible" : false,
+  "showInLegend" : true,
+  "markerSize" : 0,
+  "yValueFormatString" : "",
+  "dataPoints" : [ {
+    "label" : "23:31",
+    "y" : 0
+  }, {
+    "label" : "23:31",
+    "y" : 0
+  }, {
+    "label" : "23:36",
+    "y" : 0
+  }, {
+    "label" : "23:37",
+    "y" : 0
+  }, {
+    "label" : "23:40",
+    "y" : 0
+  }, {
+    "label" : "23:43",
+    "y" : 0
+  }, {
+    "label" : "23:43",
+    "y" : 0
+  }, {
+    "label" : "23:44",
+    "y" : 0
+  } ]
+}, {
+  "type" : "line",
+  "name" : "39900",
+  "visible" : false,
+  "showInLegend" : true,
+  "markerSize" : 0,
+  "yValueFormatString" : "",
+  "dataPoints" : [ {
+    "label" : "23:31",
+    "y" : 0
+  }, {
+    "label" : "23:31",
+    "y" : 0
+  }, {
+    "label" : "23:36",
+    "y" : 0
+  }, {
+    "label" : "23:37",
+    "y" : 0
+  }, {
+    "label" : "23:40",
+    "y" : 0
+  }, {
+    "label" : "23:43",
+    "y" : 0
+  }, {
+    "label" : "23:43",
+    "y" : 0
+  }, {
+    "label" : "23:44",
+    "y" : 0
+  } ]
+}, {
+  "type" : "line",
+  "name" : "40000",
+  "visible" : false,
+  "showInLegend" : true,
+  "markerSize" : 0,
+  "yValueFormatString" : "",
+  "dataPoints" : [ {
+    "label" : "23:31",
+    "y" : 10831
+  }, {
+    "label" : "23:31",
+    "y" : 10831
+  }, {
+    "label" : "23:36",
+    "y" : 10831
+  }, {
+    "label" : "23:37",
+    "y" : 10831
+  }, {
+    "label" : "23:40",
+    "y" : 10831
+  }, {
+    "label" : "23:43",
+    "y" : 10831
+  }, {
+    "label" : "23:43",
+    "y" : 10831
+  }, {
+    "label" : "23:44",
+    "y" : 10831
+  } ]
+}, {
+  "type" : "line",
+  "name" : "40100",
+  "visible" : false,
+  "showInLegend" : true,
+  "markerSize" : 0,
+  "yValueFormatString" : "",
+  "dataPoints" : [ {
+    "label" : "23:31",
+    "y" : 4
+  }, {
+    "label" : "23:31",
+    "y" : 4
+  }, {
+    "label" : "23:36",
+    "y" : 4
+  }, {
+    "label" : "23:37",
+    "y" : 4
+  }, {
+    "label" : "23:40",
+    "y" : 4
+  }, {
+    "label" : "23:43",
+    "y" : 4
+  }, {
+    "label" : "23:43",
+    "y" : 4
+  }, {
+    "label" : "23:44",
+    "y" : 4
+  } ]
+}, {
+  "type" : "line",
+  "name" : "40200",
+  "visible" : false,
+  "showInLegend" : true,
+  "markerSize" : 0,
+  "yValueFormatString" : "",
+  "dataPoints" : [ {
+    "label" : "23:31",
+    "y" : 213
+  }, {
+    "label" : "23:31",
+    "y" : 213
+  }, {
+    "label" : "23:36",
+    "y" : 213
+  }, {
+    "label" : "23:37",
+    "y" : 213
+  }, {
+    "label" : "23:40",
+    "y" : 213
+  }, {
+    "label" : "23:43",
+    "y" : 213
+  }, {
+    "label" : "23:43",
+    "y" : 213
+  }, {
+    "label" : "23:44",
+    "y" : 213
+  } ]
+}, {
+  "type" : "line",
+  "name" : "40300",
+  "visible" : false,
+  "showInLegend" : true,
+  "markerSize" : 0,
+  "yValueFormatString" : "",
+  "dataPoints" : [ {
+    "label" : "23:31",
+    "y" : 2016
+  }, {
+    "label" : "23:31",
+    "y" : 2016
+  }, {
+    "label" : "23:36",
+    "y" : 2016
+  }, {
+    "label" : "23:37",
+    "y" : 2016
+  }, {
+    "label" : "23:40",
+    "y" : 2016
+  }, {
+    "label" : "23:43",
+    "y" : 2016
+  }, {
+    "label" : "23:43",
+    "y" : 2016
+  }, {
+    "label" : "23:44",
+    "y" : 2016
+  } ]
+} ]

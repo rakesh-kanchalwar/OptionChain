@@ -13,8 +13,8 @@ import org.slf4j.LoggerFactory;
 import com.google.api.services.sheets.v4.Sheets;
 import com.google.api.services.sheets.v4.model.AppendValuesResponse;
 import com.google.api.services.sheets.v4.model.ValueRange;
-import com.rakeshk.optionchain.model.banknifty.Datum;
-import com.rakeshk.optionchain.model.banknifty.Filtered;
+import com.rakeshk.optionchain.banknifty.model.Datum;
+import com.rakeshk.optionchain.banknifty.model.Filtered;
 
 public class SheetService {
 	private Logger logger = LoggerFactory.getLogger(Scheduler.class);
@@ -22,7 +22,7 @@ public class SheetService {
     public void updateSheet(String spreadsheetid, String sheetNameWithHeader,String sheetNameWithoutHeader, boolean includeIntermediateStrikePrice, int minRange, int maxRange, boolean insertHeader) throws IOException, GeneralSecurityException {
     	Sheets service = new AuthProvider().getService();
     	
-    	Filtered filtered = new DataReader().getFilteredDataFromFile();
+    	Filtered filtered = new DataReader().getFilteredDataFromFile("/data.txt");
     	
     	if(insertHeader) {
 			addHeaderFields(spreadsheetid, service, sheetNameWithHeader,filtered, includeIntermediateStrikePrice, minRange, maxRange);

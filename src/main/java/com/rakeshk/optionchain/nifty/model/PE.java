@@ -1,14 +1,18 @@
-package com.rakeshk.optionchain.model.nifty;
-public class CE{
+package com.rakeshk.optionchain.nifty.model;
+// import com.fasterxml.jackson.databind.ObjectMapper; // version 2.11.1
+// import com.fasterxml.jackson.annotation.JsonProperty; // version 2.11.1
+/* ObjectMapper om = new ObjectMapper();
+Root root = om.readValue(myJsonString), Root.class); */
+public class PE{
     public int strikePrice;
     public String expiryDate;
     public String underlying;
     public String identifier;
     public int openInterest;
     public int changeinOpenInterest;
-    public int pchangeinOpenInterest;
+    public double pchangeinOpenInterest;
     public int totalTradedVolume;
-    public int impliedVolatility;
+    public double impliedVolatility;
     public double lastPrice;
     public double change;
     public double pChange;
@@ -21,9 +25,5 @@ public class CE{
     public double underlyingValue;
     public int totOI;
     public int totVol;
-	public int openInterest() {
-		// TODO Auto-generated method stub
-		return openInterest;
-	}
 }
 

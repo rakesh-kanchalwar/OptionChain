@@ -1,4 +1,4 @@
-package com.rakeshk.optionchain.model.nifty;
+package com.rakeshk.optionchain.nifty.model;
 public class Root{
     public Records records;
     public Filtered filtered;

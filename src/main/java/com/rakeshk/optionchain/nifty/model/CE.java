@@ -1,4 +1,4 @@
-package com.rakeshk.optionchain.model.banknifty;
+package com.rakeshk.optionchain.nifty.model;
 public class CE{
     public int strikePrice;
     public String expiryDate;
@@ -6,9 +6,9 @@ public class CE{
     public String identifier;
     public int openInterest;
     public int changeinOpenInterest;
-    public double pchangeinOpenInterest;
+    public int pchangeinOpenInterest;
     public int totalTradedVolume;
-    public double impliedVolatility;
+    public int impliedVolatility;
     public double lastPrice;
     public double change;
     public double pChange;
@@ -21,5 +21,9 @@ public class CE{
     public double underlyingValue;
     public int totOI;
     public int totVol;
+	public int openInterest() {
+		// TODO Auto-generated method stub
+		return openInterest;
+	}
 }
 

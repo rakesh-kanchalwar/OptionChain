@@ -1,4 +1,4 @@
-package com.rakeshk.optionchain.model.banknifty;
+package com.rakeshk.optionchain.banknifty.model;
 
 
 public class Root{
