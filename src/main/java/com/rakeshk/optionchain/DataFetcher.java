@@ -12,7 +12,7 @@ import org.slf4j.LoggerFactory;
 public class DataFetcher {
 	private Logger logger = LoggerFactory.getLogger(DataFetcher.class);
 	
-	public void fetchData(String urlStr, String cookieStr, String outputFilePath){
+	public void fetchData(String urlStr, String cookieStr, String outputFilePath) throws Exception{
 	    try  
 	    {  
 	      URL url = new URL(urlStr); // creating a url object  
@@ -27,6 +27,7 @@ public class DataFetcher {
 	    }  
 	    catch(Exception e){  
 	    	logger.error("Failed to read data from URL -" + outputFilePath, e);
+	    	throw e;
 	    }  
 	}
 }
