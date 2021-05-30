@@ -31,11 +31,6 @@ public class OptionChainHTMLCreator {
 	
 	public void updateHTML() {
 		try {
-			DataFetcher dataFetcher = new DataFetcher();
-			dataFetcher.fetchData(environment.getProperty("site.banknifty.url"), 
-					environment.getProperty("site.cookie"), environment.getProperty("file.input.banknifty"));
-			dataFetcher.fetchData(environment.getProperty("site.nifty.url"), 
-					environment.getProperty("site.cookie"), environment.getProperty("file.input.nifty"));
 			
 			String prefixFileName = environment.getProperty("file.prefix"); 
 			String suffixFileName = environment.getProperty("file.suffix"); 
@@ -52,26 +47,33 @@ public class OptionChainHTMLCreator {
 		}
 	}
 	
-	private void createNiftyChart(String prefixFileContents, String suffixFileContents) throws IOException, JsonProcessingException{
-		DataReader dataReader = new NiftyDataReader();
+	private void createNiftyChart(String prefixFileContents, String suffixFileContents) throws Exception{
+		NiftyDataReader dataReader = new NiftyDataReader();
 		DataWriter dataWriter = new DataWriter();
+		DataFetcher dataFetcher = new DataFetcher();
 		
-		com.rakeshk.optionchain.nifty.model.Filtered filtered = (com.rakeshk.optionchain.nifty.model.Filtered) dataReader.getFilteredDataFromFile(environment.getProperty("file.input.nifty"));
+		String niftyData = dataFetcher.fetchData(environment.getProperty("site.nifty.url"),
+				  environment.getProperty("site.cookie"));
+		
+		com.rakeshk.optionchain.nifty.model.Filtered filtered = (com.rakeshk.optionchain.nifty.model.Filtered) dataReader.getFilteredDataFromString(niftyData);
 		Root jsonContents =	new NiftyJsonContentCreator().createJsonData(filtered, Integer.parseInt(environment.getProperty("data.minRange.nifty")),
 				Integer.parseInt(environment.getProperty("data.maxRange.nifty")));
 		
 		String backupFileName = environment.getProperty("file.backup.nifty");
-		
 		String outputFileName = environment.getProperty("file.output.nifty");
 		
 		createOutputFiles(dataReader, dataWriter, jsonContents, backupFileName, prefixFileContents, suffixFileContents, outputFileName);
 	}
 
-	private void createBankNiftyChart(String prefixFileContents, String suffixFileContents) throws IOException, JsonProcessingException {
-		DataReader dataReader = new BankNiftyDataReader();
+	private void createBankNiftyChart(String prefixFileContents, String suffixFileContents) throws Exception {
+		BankNiftyDataReader dataReader = new BankNiftyDataReader();
 		DataWriter dataWriter = new DataWriter();
+		DataFetcher dataFetcher = new DataFetcher();
 		
-		Filtered filtered = (Filtered) dataReader.getFilteredDataFromFile(environment.getProperty("file.input.banknifty"));
+		String bankNiftyData = dataFetcher.fetchData(environment.getProperty("site.banknifty.url"), 
+				environment.getProperty("site.cookie"));
+		
+		Filtered filtered = (Filtered) dataReader.getFilteredDataFromString(bankNiftyData);
 		Root jsonContents =	new BankNiftyJsonContentCreator().createJsonData(filtered, Integer.parseInt(environment.getProperty("data.minRange.banknifty")),
 				Integer.parseInt(environment.getProperty("data.maxRange.banknifty")));
 		

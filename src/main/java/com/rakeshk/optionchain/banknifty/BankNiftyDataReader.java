@@ -28,4 +28,17 @@ public class BankNiftyDataReader implements DataReader{
 		}
 		return dataRoot.getFiltered();
 	}
+	
+	public Filtered getFilteredDataFromString(String fileContents) throws IOException {
+		Root dataRoot = null;
+		try {
+			ObjectMapper mapper = new ObjectMapper();
+
+			dataRoot = mapper.readValue(fileContents, Root.class);
+
+		} catch (IOException e) {
+			logger.error("Failed to read data from String", e);
+		}
+		return dataRoot.getFiltered();
+	}
 }
